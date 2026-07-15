@@ -67,7 +67,7 @@
 *[Tobias wieder im Bild. Background: 3 Säulen — Resources / Activities / Partners]*
 
 **(1:24–1:36) Technik:**
-„Zwei NVIDIA-Rechner vor Ort — keine Cloud. Offene KI-Modelle auf eigener Hardware, vollständig DSGVO-konform. Echtzeit-Daten aus globalen Quellen, 2.500 Unternehmen, 50.000 Signale im Graph. Ergebnis: Signale, kein Rauschen."
+„Souveräne Inferencing-Hardware lokal vor Ort — keine Cloud. Offene KI-Modelle auf eigener Hardware, vollständig DSGVO-konform. Echtzeit-Daten aus globalen Quellen, 2.500 Unternehmen, 50.000 Signale im Graph. Ergebnis: Signale, kein Rauschen."
 *Pause*
 
 **(1:36–1:54) Partner:**

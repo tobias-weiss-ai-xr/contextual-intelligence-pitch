@@ -163,7 +163,7 @@
     <circle cx="1200" cy="30" r="2" fill="#475569"/>
     <text x="1215" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#94a3b8">Break-Even €1.500/Monat</text>
     <circle cx="1380" cy="30" r="2" fill="#475569"/>
-    <text x="1395" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#6366f1">2× NVIDIA DGX Spark</text>
+    <text x="1395" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#6366f1">Souveräne Inferencing-Hardware</text>
 
     <text x="960" y="80" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b" text-anchor="middle" letter-spacing="2">
 ORSD: Kostenlos · Offene Lizenz · Tägliche Updates  |  CI: ab €299/Monat · Enterprise ab €1.000/Monat  |  Lead Intelligence  |  KI-Analyse öffentlicher Signale  |  Quellen: FDA · EUDAMED · Patentämter · ClinicalTrials

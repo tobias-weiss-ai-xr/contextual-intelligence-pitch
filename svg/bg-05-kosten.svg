@@ -50,7 +50,7 @@
   <text x="440" y="345" font-family="'Segoe UI',Arial,sans-serif" font-size="15" fill="#94a3b8" text-anchor="end">~€300</text>
   <rect x="60" y="355" width="380" height="6" rx="3" fill="#1e293b"/>
   <rect x="60" y="355" width="114" height="6" rx="3" fill="url(#accent)"/>
-  <text x="60" y="375" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#64748b">Self-hosted DGX: GPU-Abschreibung + Strom statt API-Miete</text>
+  <text x="60" y="375" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#64748b">Self-hosted: GPU-Abschreibung + Strom statt API-Miete</text>
 
   <text x="60" y="405" font-family="'Segoe UI',Arial,sans-serif" font-size="15" font-weight="600" fill="#e2e8f0">Hosting (22%)</text>
   <text x="440" y="405" font-family="'Segoe UI',Arial,sans-serif" font-size="15" fill="#94a3b8" text-anchor="end">~€225</text>
