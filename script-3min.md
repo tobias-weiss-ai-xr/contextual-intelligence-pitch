@@ -3,7 +3,7 @@
 > **Dauer:** 3 Minuten (180 Sekunden)
 > **Format:** Greenscreen, zwei Sprecher im Wechsel
 > **Stil:** Emotional, positiv, klar — Herausforderung, nicht Problem
-> **Hintergründe:** `svg/bg-01-problem.svg` bis `svg/bg-06-cta.svg`
+> **Hintergründe:** `png/bg-01-problem.png` bis `png/bg-06-cta.png`
 > **Sprecher:** Dr. Tobias Weiß (Technik) + Marc Viel (Business) — ca. 50/50 Redeanteil
 
 ---
@@ -22,12 +22,12 @@
 
 | Szene | Zeit | Sprecher | SVG |
 |-------|------|----------|-----|
-| 1 Herausforderung | 0:00–0:25 | Dr. Tobias Weiß | `bg-01-problem.svg` |
-| 2 Team & Markt | 0:25–0:48 | Marc Viel | `bg-02-markt.svg` |
-| 3 Preise | 0:48–1:05 | Marc Viel | `bg-03-revenue.svg` |
-| 4 Schlüsselfaktoren | 1:05–1:28 | Dr. Tobias Weiß | `bg-04-schluesselfaktoren.svg` |
-| 5 Kosten | 1:28–1:45 | Dr. Tobias Weiß | `bg-05-kosten.svg` |
-| 6 CTA | 1:45–2:15 | Marc Viel | `bg-06-cta.svg` |
+| 1 Herausforderung | 0:00–0:25 | Dr. Tobias Weiß | `bg-01-problem.png` |
+| 2 Team & Markt | 0:25–0:48 | Marc Viel | `bg-02-markt.png` |
+| 3 Preise | 0:48–1:05 | Marc Viel | `bg-03-revenue.png` |
+| 4 Schlüsselfaktoren | 1:05–1:28 | Dr. Tobias Weiß | `bg-04-schluesselfaktoren.png` |
+| 5 Kosten | 1:28–1:45 | Dr. Tobias Weiß | `bg-05-kosten.png` |
+| 6 CTA | 1:45–2:15 | Marc Viel | `bg-06-cta.png` |
 | Puffer | 2:15–3:00 | — | — |
 
 ---
@@ -36,7 +36,7 @@
 
 ---
 
-## SZENE 1 — HERAUSFORDERUNG (0:00–0:25) → Dr. Tobias Weiß · `bg-01-problem.svg`
+## SZENE 1 — HERAUSFORDERUNG (0:00–0:25) → Dr. Tobias Weiß · `bg-01-problem.png`
 
 *[Blick in Kamera]*
 
@@ -53,7 +53,7 @@
 
 ---
 
-## SZENE 2 — TEAM & MARKT (0:25–0:48) → Marc Viel · `bg-02-markt.svg`
+## SZENE 2 — TEAM & MARKT (0:25–0:48) → Marc Viel · `bg-02-markt.png`
 
 *[Marc Viel jetzt im Bild]*
 
@@ -70,7 +70,7 @@
 
 ---
 
-## SZENE 3 — PREISE (0:48–1:05) → Marc Viel · `bg-03-revenue.svg`
+## SZENE 3 — PREISE (0:48–1:05) → Marc Viel · `bg-03-revenue.png`
 
 **(0:48–0:57)**
 „Citeline, GlobalData: 50.000 Euro pro Jahr. Wir: 299 Euro im Monat. Gleiche Intelligence. 14 Mal günstiger."
@@ -81,7 +81,7 @@
 
 ---
 
-## SZENE 4 — SCHLÜSSELFAKTOREN (1:05–1:28) → Dr. Tobias Weiß · `bg-04-schluesselfaktoren.svg`
+## SZENE 4 — SCHLÜSSELFAKTOREN (1:05–1:28) → Dr. Tobias Weiß · `bg-04-schluesselfaktoren.png`
 
 *[Dr. Tobias Weiß zurück]*
 
@@ -94,7 +94,7 @@
 
 ---
 
-## SZENE 5 — KOSTEN (1:28–1:45) → Dr. Tobias Weiß · `bg-05-kosten.svg`
+## SZENE 5 — KOSTEN (1:28–1:45) → Dr. Tobias Weiß · `bg-05-kosten.png`
 
 **(1:28–1:37)**
 „Schlank und ehrlich. Keine teure Cloud, keine Miet-API. Voll automatisiert. Nebenerwerb — kein Gründerlohn."
@@ -105,7 +105,7 @@
 
 ---
 
-## SZENE 6 — CTA (1:45–2:15) → Marc Viel · `bg-06-cta.svg`
+## SZENE 6 — CTA (1:45–2:15) → Marc Viel · `bg-06-cta.png`
 
 **(1:45–2:15)**
 „Contextual Intelligence ist live. Testen Sie es, stimmen Sie ab."

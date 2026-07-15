@@ -10,8 +10,8 @@
 - [ ] Script (3min + 30s) einmal komplett durchsprechen — **beide**
 - [ ] Zeit nehmen: Script laut lesen, Stopuhr mitlaufen lassen — **beide**
 - [ ] Sprecherwechsel proben: Übergänge Dr. Tobias Weiß ↔ Marc Viel timen
-- [ ] SVGs auf Stick: `svg/` komplett (8 Dateien: `bg-01` bis `bg-07` + `bg-speaker-overlay`)
-- [ ] SVGs dem Studio-Team vorab schicken (zur Einrichtung der GreenScreen-Backgrounds)
+- [ ] PNGs + SVGs auf Stick: `png/` + `svg/` komplett (je 8 Dateien: `bg-01` bis `bg-07` + `bg-speaker-overlay`)
+- [ ] PNGs bevorzugt für Studio-Backgrounds; dem Team vorab schicken (zur Einrichtung)
 - [ ] Kleidung checken: **beide** — kein Grün, kein feines Streifenmuster (Moiré)
 - [ ] Ggf. zweites Outfit als Backup einpacken — **beide**
 
@@ -19,7 +19,7 @@
 
 ### Mitbringen
 
-- [ ] Laptop mit SVGs (USB-Stick + Cloud-Backup)
+- [ ] Laptop mit PNGs + SVGs (USB-Stick + Cloud-Backup)
 - [ ] Script-Ausdruck (3×: Dr. Tobias Weiß, Marc Viel + eine Reserve)
 - [ ] Wasserflasche (kein Etikett) — **2 Flaschen, eine pro Sprecher**
 - [ ] Kleidung: einfarbig, kein Grün, kein Moiré-Muster — **beide**

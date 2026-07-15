@@ -3,7 +3,7 @@
 > **Dauer:** 30 Sekunden
 > **Format:** Greenscreen, zwei Sprecher im Wechsel
 > **Stil:** Emotional, direkt, positiv — Herausforderung, nicht Problem
-> **Hintergrund:** `svg/bg-07-wer-was-cta.svg` (ein Hintergrund)
+> **Hintergrund:** `png/bg-07-wer-was-cta.png` (ein Hintergrund)
 > **Sprecher:** Marc Viel (Akt 1) + Dr. Tobias Weiß (Akt 2)
 
 ---
@@ -19,7 +19,7 @@
 
 ## SKRIPT
 
-![Background: Wer / Was / CTA](svg/bg-07-wer-was-cta.svg)
+![Background: Wer / Was / CTA](png/bg-07-wer-was-cta.png)
 
 ---
 

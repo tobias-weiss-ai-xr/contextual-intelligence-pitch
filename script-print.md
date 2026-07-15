@@ -10,7 +10,7 @@
 
 ---
 
-### Szene 1 — Herausforderung → `bg-01-problem.svg` | 0:00–0:25 | **Dr. Tobias Weiß**
+### Szene 1 — Herausforderung → `bg-01-problem.png` | 0:00–0:25 | **Dr. Tobias Weiß**
 
 *[Blick in Kamera]*
 
@@ -26,7 +26,7 @@
 
 ---
 
-### Szene 2 — Team & Markt → `bg-02-markt.svg` | 0:25–0:48 | **Marc Viel**
+### Szene 2 — Team & Markt → `bg-02-markt.png` | 0:25–0:48 | **Marc Viel**
 
 „Marc Viel — Produkt und Kunden. Dr. Tobias Weiß kommt aus openDesk, digitale Souveränität. 20 Gespräche mit MedTech-Vertriebsleitern — wir kennen die Unsicherheit."
 
@@ -40,7 +40,7 @@
 
 ---
 
-### Szene 3 — Preise → `bg-03-revenue.svg` | 0:48–1:05 | **Marc Viel**
+### Szene 3 — Preise → `bg-03-revenue.png` | 0:48–1:05 | **Marc Viel**
 
 „Citeline, GlobalData: 50.000 Euro pro Jahr. Wir: 299 Euro im Monat. Gleiche Intelligence. 14 Mal günstiger."
 
@@ -50,7 +50,7 @@
 
 ---
 
-### Szene 4 — Schlüsselfaktoren → `bg-04-schluesselfaktoren.svg` | 1:05–1:28 | **Dr. Tobias Weiß**
+### Szene 4 — Schlüsselfaktoren → `bg-04-schluesselfaktoren.png` | 1:05–1:28 | **Dr. Tobias Weiß**
 
 „openDesk war mein Schlüsselerlebnis: Kontrolle über die Infrastruktur — Kontrolle über die Daten. Zwei NVIDIA-Rechner vor Ort, keine Cloud. Modernste KI, DSGVO."
 
@@ -60,7 +60,7 @@
 
 ---
 
-### Szene 5 — Kosten → `bg-05-kosten.svg` | 1:28–1:45 | **Dr. Tobias Weiß**
+### Szene 5 — Kosten → `bg-05-kosten.png` | 1:28–1:45 | **Dr. Tobias Weiß**
 
 „Schlank und ehrlich. Keine teure Cloud, keine Miet-API. Voll automatisiert. Nebenerwerb — kein Gründerlohn."
 
@@ -70,7 +70,7 @@
 
 ---
 
-### Szene 6 — CTA → `bg-06-cta.svg` | 1:45–2:15 | **Marc Viel**
+### Szene 6 — CTA → `bg-06-cta.png` | 1:45–2:15 | **Marc Viel**
 
 „Contextual Intelligence ist live. Testen Sie es, stimmen Sie ab."
 
@@ -84,7 +84,7 @@
 
 **Sprecher:** Marc Viel (Akt 1) + Dr. Tobias Weiß (Akt 2) | **Ziel: ~30s**
 
-**Hintergrund:** `svg/bg-07-wer-was-cta.svg`
+**Hintergrund:** `png/bg-07-wer-was-cta.png`
 
 ---
 
