@@ -5,7 +5,7 @@
 > **Stil:** Emotional, direkt, geschichtengetrieben — optimiert für Jury und breites Publikum
 > **Hintergrund:** `svg/bg-07-wer-was-cta.svg` — Ein Hintergrund für das gesamte Video (kein Wechsel)
 > **Verwendung:** Elevator Pitch / Social-Media-Teaser / Intro-Video für die Website
-> **Sprecher:** Marc (Problem) + Tobias (Lösung & CTA) — je ~15s
+> **Sprecher:** Marc Viel (Problem) + Dr. Tobias Weiß (Lösung & CTA) — je ~15s
 
 ---
 
@@ -15,12 +15,12 @@
 - Wie Hauptpitch: Kamera zentral, beide Sprecher auf Augenhöhe, mittig
 - **Zwei Mikrofone** (Lavalier) — gleicher Pegel
 - **Kein Background-Wechsel** — Overlays (WER → WAS → CTA) setzen Akzente
-- Marc zeigt auf linke Spalte (WER), Tobias auf Mitte + rechte Spalte (WAS + CTA)
+- Marc Viel zeigt auf linke Spalte (WER), Dr. Tobias Weiß auf Mitte + rechte Spalte (WAS + CTA)
 
 ### Schnitt-Empfehlung
 - **Hart-Schnitt beim Sprecherwechsel** (bei 0:15)
 - Untertitel (eingebrannt): 3 Zeilen, synchron zum Sprecher
-  - Zeile 1 — Section-Header: **MARC:** / **TOBIAS:** (fett, cyan)
+  - Zeile 1 — Section-Header: **MARC VIEL:** / **DR. TOBIAS WEISS:** (fett, cyan)
   - Zeilen 2–3 — Sprechertext
 
 ### Audio
@@ -35,27 +35,27 @@
 
 **Timer: 0:00–30s**
 
-> *[Background zeigt dreigeteiltes Layout: links WER, mitte WAS, rechts CTA. Marc startet.]*
+> *[Background zeigt dreigeteiltes Layout: links WER, mitte WAS, rechts CTA. Marc Viel startet.]*
 
 ---
 
-### AKT 1 — PROBLEM (0:00–0:15) → **Marc**
+### AKT 1 — PROBLEM (0:00–0:15) → **Marc Viel**
 
-> *[Marc zeigt auf linke Spalte]*
+> *[Marc Viel zeigt auf linke Spalte]*
 
 **(0:00–0:15)**
-„40.000 Medizinprodukte müssen 2027 neu zertifiziert werden. Jeder sucht Partner — aber LinkedIn findet nur Branchen, nicht Technologie. Ein Startup kurz vor der Pleite — weil sie die falschen Kunden suchten."
+„40.000 Medizinprodukte müssen 2027 neu zertifiziert werden. Ein Bildgebungsspezialist sucht Monate nach dem richtigen Technologiepartner. LinkedIn findet nur Branchen — nicht, wer patentiert oder zertifiziert ist."
 
-*—— Hart-Schnitt zu Tobias ——*
+*—— Hart-Schnitt zu Dr. Tobias Weiß ——*
 
 ---
 
-### AKT 2 — LÖSUNG & CTA (0:15–0:30) → **Tobias**
+### AKT 2 — LÖSUNG & CTA (0:15–0:30) → **Dr. Tobias Weiß**
 
-> *[Tobias zeigt auf mittlere, dann rechte Spalte — energisch]*
+> *[Dr. Tobias Weiß zeigt auf mittlere, dann rechte Spalte — energisch]*
 
 **(0:15–0:30)**
-„Wir haben gebaut, was fehlt: 22 Datenquellen, Wissensgraph, KI-Scoring — auf eigener Hardware, DSGVO-konform. Pilot mit Siemens Healthineers. 299 Euro im Monat, 14x günstiger als Citeline. Selbstfinanziert. Probieren Sie es aus. Danke."
+„OpenDesk, Digitale Souveränität — das ist mein Background. Contextual Intelligence findet, was LinkedIn nicht sieht: Patente, Zulassungen, Technologie-Signale — auf eigener Hardware, DSGVO-konform. Pilot mit Siemens Healthineers. 299 Euro im Monat. Testen Sie es. Danke."
 
 ---
 
