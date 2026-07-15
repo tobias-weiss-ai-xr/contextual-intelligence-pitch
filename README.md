@@ -11,7 +11,8 @@
 | `script-30s.md` | 30-Sekunden-Elevator-Pitch |
 | `script-print.md` | Druckversion beider Skripte |
 | `production-checklist.md` | Checkliste für den Studio-Tag |
-| `svg/` | GreenScreen-Hintergründe (8 SVGs) |
+| `svg/` | GreenScreen-Hintergründe (8 SVGs, optimiert: weniger Text, größere Schrift) |
+| `png/` | PNG-Exporte der Hintergründe (1920×1080) |
 | `StartMiUp_Einreichung.tex` | LaTeX-Einreichung StartMiUp |
 | `CI_StartMiUp_Einreichung.pdf` | Eingereichte PDF |
 
