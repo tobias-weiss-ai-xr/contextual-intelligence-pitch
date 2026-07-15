@@ -1,15 +1,15 @@
 # Production Checklist — Studioaufnahme 16. Juli 2026
 
 > **StartMiUp BMC 2026** | **Zeit:** 11–13 Uhr | **Ort:** (wird von StartMiUp mitgeteilt)
-> **Sprecher:** Tobias + Marc (beide vor Ort)
+> **Sprecher:** Dr. Tobias Weiß + Marc Viel (beide vor Ort)
 
 ---
 
-## Vorbereitung (Mi, 15.7. — digitales Treffen mit Marc)
+## Vorbereitung (Mi, 15.7. — digitales Treffen mit Marc Viel)
 
 - [ ] Script (3min + 30s) einmal komplett durchsprechen — **beide**
 - [ ] Zeit nehmen: Script laut lesen, Stopuhr mitlaufen lassen — **beide**
-- [ ] Sprecherwechsel proben: Übergänge Tobias ↔ Marc timen
+- [ ] Sprecherwechsel proben: Übergänge Dr. Tobias Weiß ↔ Marc Viel timen
 - [ ] SVGs auf Stick: `svg/` komplett (8 Dateien: `bg-01` bis `bg-07` + `bg-speaker-overlay`)
 - [ ] SVGs dem Studio-Team vorab schicken (zur Einrichtung der GreenScreen-Backgrounds)
 - [ ] Kleidung checken: **beide** — kein Grün, kein feines Streifenmuster (Moiré)
@@ -20,7 +20,7 @@
 ### Mitbringen
 
 - [ ] Laptop mit SVGs (USB-Stick + Cloud-Backup)
-- [ ] Script-Ausdruck (3×: Tobias, Marc + eine Reserve)
+- [ ] Script-Ausdruck (3×: Dr. Tobias Weiß, Marc Viel + eine Reserve)
 - [ ] Wasserflasche (kein Etikett) — **2 Flaschen, eine pro Sprecher**
 - [ ] Kleidung: einfarbig, kein Grün, kein Moiré-Muster — **beide**
 - [ ] Ggf. Taschen-/Einsteckmikrofon (falls eigenes bevorzugt) — **beide**
@@ -57,7 +57,7 @@
 
 | Funktion | Wer |
 |----------|-----|
-| **Sprecher 1** | Tobias |
-| **Sprecher 2** | Marc |
+| **Sprecher 1** | Dr. Tobias Weiß |
+| **Sprecher 2** | Marc Viel |
 | **Regie** | (wird vor Ort festgelegt) |
 | **Studio-Betreuung** | StartMiUp — Matthias Beurer |
