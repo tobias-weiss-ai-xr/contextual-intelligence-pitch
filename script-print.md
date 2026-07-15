@@ -26,7 +26,7 @@
 
 **(0:20–0:28) Lösung:**
 *Pause*
-„Wir haben mit 20 Vertriebsleitern gesprochen. Die Antwort: Contextual Intelligence — 22 Datenquellen, semantischer Graph, Signale heiß, warm, kalt. Auf eigener Hardware, datenschutzkonform, nie älter als 24 Stunden. Pilot läuft mit Siemens Healthineers."
+„Die Lösung: Contextual Intelligence — Echtzeit-Datenquellen, semantischer Graph, Signale heiß, warm, kalt. Auf eigener Hardware, datenschutzkonform, nie älter als 24 Stunden."
 
 ---
 
@@ -35,7 +35,7 @@
 *[Marc jetzt im Bild. Background: Zielgruppen-Segmente als Cards + Marktzahlen]*
 
 **(0:28–0:38) Team:**
-„Ich bin Marc — ich bin für Produkt und Kunden zuständig. Tobias ist unser KI-Entwickler, DevOps Engineer an der Uni Marburg. Zusammen haben wir den Bedarf in 20 Gesprächen validiert."
+„Ich bin Marc — ich bin für Produkt und Kunden zuständig. Tobias ist unser KI-Entwickler, DevOps Engineer an der Uni Marburg. Wir kennen den Markt aus eigener Erfahrung."
 
 **(0:38–0:46) Kundensegmente:**
 *Pause*
@@ -67,7 +67,7 @@
 *[Tobias wieder im Bild. Background: 3 Säulen — Resources / Activities / Partners]*
 
 **(1:24–1:36) Technik:**
-„Zwei NVIDIA-Rechner vor Ort — keine Cloud. Modernste KI auf eigener Hardware, vollständig DSGVO-konform. 22 Datenquellen aus 10 Ländern, 2.500 Unternehmen, 50.000 Signale im Graph. Ergebnis: Signale, kein Rauschen."
+„Zwei NVIDIA-Rechner vor Ort — keine Cloud. Modernste KI auf eigener Hardware, vollständig DSGVO-konform. Echtzeit-Daten aus globalen Quellen, 2.500 Unternehmen, 50.000 Signale im Graph. Ergebnis: Signale, kein Rauschen."
 *Pause*
 
 **(1:36–1:54) Partner:**
@@ -126,7 +126,7 @@
 *[Tobias zeigt auf mittlere, dann rechte Spalte — energisch]*
 
 **(0:15–0:30)**
-„Wir haben gebaut, was fehlt: 22 Datenquellen, Wissensgraph, KI-Scoring — auf eigener Hardware, DSGVO-konform. Pilot mit Siemens Healthineers. 299 Euro im Monat, 14x günstiger als Citeline. Selbstfinanziert. Probieren Sie es aus. Danke."
+„Wir haben gebaut, was fehlt: Echtzeit-Datenquellen, Wissensgraph, KI-Scoring — auf eigener Hardware, DSGVO-konform. 299 Euro im Monat, 14x günstiger als Citeline. Selbstfinanziert. Probieren Sie es aus. Danke."
 
 ---
 

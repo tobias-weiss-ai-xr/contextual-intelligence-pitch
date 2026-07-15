@@ -55,7 +55,7 @@
 > *[Tobias zeigt auf mittlere, dann rechte Spalte — energisch]*
 
 **(0:15–0:30)**
-„Wir haben gebaut, was fehlt: 22 Datenquellen, Wissensgraph, KI-Scoring — auf eigener Hardware, DSGVO-konform. Pilot mit Siemens Healthineers. 299 Euro im Monat, 14x günstiger als Citeline. Selbstfinanziert. Probieren Sie es aus. Danke."
+„Wir haben gebaut, was fehlt: Echtzeit-Datenquellen, Wissensgraph, KI-Scoring — auf eigener Hardware, DSGVO-konform. 299 Euro im Monat, 14x günstiger als Citeline. Selbstfinanziert. Probieren Sie es aus. Danke."
 
 ---
 

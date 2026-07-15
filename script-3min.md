@@ -73,7 +73,7 @@
 
 **(0:20–0:28) Lösung:**
 *pause*
-„Wir haben mit 20 Vertriebsleitern gesprochen. Die Antwort: Contextual Intelligence — 22 Datenquellen, semantischer Graph, Signale heiß, warm, kalt. Auf eigener Hardware, datenschutzkonform, nie älter als 24 Stunden. Pilot läuft mit Siemens Healthineers."
+„Die Lösung: Contextual Intelligence — Echtzeit-Datenquellen, semantischer Graph, Signale heiß, warm, kalt. Auf eigener Hardware, datenschutzkonform, nie älter als 24 Stunden."
 
 ---
 
@@ -86,15 +86,15 @@
 > *[Marc jetzt im Bild (gleiche Position). Background zeigt Zielgruppen-Segmente als Cards + Marktzahlen.]*
 
 **(0:28–0:38) Team:**
-„Ich bin Marc — ich bin für Produkt und Kunden zuständig. Tobias ist unser KI-Entwickler, DevOps Engineer an der Uni Marburg. Zusammen haben wir den Bedarf in 20 Gesprächen validiert."
+„Ich bin Marc — ich bin für Produkt und Kunden zuständig. Tobias ist unser KI-Entwickler, DevOps Engineer an der Uni Marburg. Wir kennen den Markt aus eigener Erfahrung."
 
 **(0:38–0:46) Kundensegmente:**
 *pause*
-„Unsere Kunden: Medizintechnik-Hersteller — vom KMU bis zum Konzern. Zulieferer, Startups, Kliniken. Alle, die im MedTech-Markt die richtigen Partner finden müssen."
+„Unsere Kunden: Medizintechnik-Hersteller, Zulieferer, Startups, Kliniken — vom KMU bis zum Konzern."
 
 **(0:46–1:00) Go-to-Market:**
 *pause*
-„Wir setzen auf das Produkt, nicht auf Verkauf. ORSD ist kostenlos — es bringt Interessierte auf die Plattform. Allein der MedTech-Markt ist milliardenschwer. Wir brauchen 50 Kunden — eigenfinanziert, nachhaltig. Kein Luftschloss. Ein Plan."
+„Wir setzen auf das Produkt, nicht auf Verkauf. ORSD ist kostenlos — es bringt Interessierte auf die Plattform. Der MedTech-Markt ist milliardenschwer. 50 Kunden reichen — eigenfinanziert, nachhaltig. Kein Luftschloss. Ein Plan."
 
 ---
 
@@ -126,7 +126,7 @@
 > *[Tobias wieder im Bild. Background zeigt 3 Säulen: Resources | Activities | Partners.]*
 
 **(1:24–1:36) Technik und Werkzeuge:**
-„Zwei NVIDIA-Rechner vor Ort — keine Cloud. Modernste KI auf eigener Hardware, vollständig DSGVO-konform. 22 Datenquellen aus 10 Ländern, 2.500 Unternehmen, 50.000 Signale im Graph. Ergebnis: Signale, kein Rauschen."
+„Zwei NVIDIA-Rechner vor Ort — keine Cloud. Modernste KI auf eigener Hardware, vollständig DSGVO-konform. Echtzeit-Daten aus globalen Quellen, 2.500 Unternehmen, 50.000 Signale im Graph. Ergebnis: Signale, kein Rauschen."
 *pause*
 
 **(1:36–1:54) Partner:**
@@ -144,7 +144,7 @@
 > *[Background zeigt Kostenverteilung + Break-Even-Markierung.]*
 
 **(1:54–2:05) Kostenstruktur:**
-„Unser großer Vorteil: minimale Kosten. KI auf eigener Hardware, nicht als teure Miet-API. Entwicklung machen wir selbst. Alles automatisiert, 24 Stunden am Tag."
+„Unser Vorteil: minimale Kosten. KI auf eigener Hardware, nicht als teure Miet-API. Entwicklung und Betrieb voll automatisiert."
 
 **(2:05–2:17) Self-Bootstrapping:**
 *pause*

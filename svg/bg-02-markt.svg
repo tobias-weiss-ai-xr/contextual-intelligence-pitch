@@ -60,32 +60,28 @@
   <circle cx="80" cy="325" r="14" fill="#06b6d4" opacity="0.3"/>
   <text x="80" y="331" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#ffffff" text-anchor="middle" font-weight="700">M</text>
   <text x="108" y="331" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="600" fill="#e2e8f0">MedTech-Hersteller</text>
-  <text x="75" y="368" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#94a3b8">CE-Kennzeichnung · MDR-Transition · Partner</text>
-  <text x="75" y="398" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#94a3b8">Sales Cycle: 2–8 Wochen</text>
+  <text x="75" y="370" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#94a3b8">CE-Kennzeichnung · MDR-Transition</text>
   <text x="75" y="428" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#06b6d4" font-weight="600">~3.000 in DACH</text>
 
   <rect x="50" y="565" width="410" height="245" rx="12" fill="url(#cardGrad2)" stroke="#6366f1" stroke-width="1" stroke-opacity="0.3"/>
   <circle cx="80" cy="600" r="14" fill="#6366f1" opacity="0.3"/>
   <text x="80" y="606" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#ffffff" text-anchor="middle" font-weight="700">Z</text>
   <text x="108" y="606" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="600" fill="#e2e8f0">MedTech-Zulieferer</text>
-  <text x="75" y="643" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#94a3b8">Komponenten · Dienstleistungen · OEM</text>
-  <text x="75" y="673" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#94a3b8">Sales Cycle: 3–9 Monate</text>
+  <text x="75" y="645" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#94a3b8">Komponenten · OEM · Dienstleistungen</text>
   <text x="75" y="703" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#6366f1" font-weight="600">~5.000 in DACH</text>
 
   <rect x="1460" y="290" width="410" height="245" rx="12" fill="url(#cardGrad1)" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.3"/>
   <circle cx="1490" cy="325" r="14" fill="#06b6d4" opacity="0.3"/>
   <text x="1490" y="331" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#ffffff" text-anchor="middle" font-weight="700">K</text>
   <text x="1518" y="331" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="600" fill="#e2e8f0">Kliniken &amp; Forschung</text>
-  <text x="1485" y="368" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#94a3b8">Studienpartner · Innovations-Scouting</text>
-  <text x="1485" y="398" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#94a3b8">Markt- &amp; Wettbewerbssignal-intelligenz</text>
+  <text x="1485" y="370" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#94a3b8">Studienpartner · Innovations-Scouting</text>
   <text x="1485" y="428" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#06b6d4" font-weight="600">~2.000 Einrichtungen in DACH</text>
 
   <rect x="1460" y="565" width="410" height="245" rx="12" fill="url(#cardGrad2)" stroke="#6366f1" stroke-width="1" stroke-opacity="0.3"/>
   <circle cx="1490" cy="600" r="14" fill="#6366f1" opacity="0.3"/>
   <text x="1490" y="606" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#ffffff" text-anchor="middle" font-weight="700">V</text>
   <text x="1518" y="606" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="600" fill="#e2e8f0">B2B-Vertriebsteams (MedTech)</text>
-  <text x="1485" y="643" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#94a3b8">Regulatorische Signale · Patent-basierte Leads</text>
-  <text x="1485" y="673" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#94a3b8">Sales Cycle: 2–8 Wochen</text>
+  <text x="1485" y="645" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" fill="#94a3b8">Regulatorische Signale · Lead-Scoring</text>
   <text x="1485" y="703" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#6366f1" font-weight="600">~5.000 Teams in DACH</text>
 
   <rect x="0" y="880" width="1920" height="200" fill="#1e293b" opacity="0.6"/>
