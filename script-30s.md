@@ -28,7 +28,7 @@
 *[Marc Viel zeigt auf linke Spalte]*
 
 **(0:00–0:15)**
-„Neue Patente, Zulassungen, Studien — jeden Tag. Sind Sie sicher, dass Sie das richtige Signal sehen?"
+„Neue Patente, Zulassungen, Studien — jeden Tag. Die MDR 2027 zwingt 40.000 Produkte zur Neuzertifizierung. Ein falscher Partner — Monate verloren. Sehen Sie das richtige Signal?"
 
 *—— Hart-Schnitt ——*
 
@@ -39,4 +39,4 @@
 *[Dr. Tobias Weiß zeigt auf mittlere, dann rechte Spalte]*
 
 **(0:15–0:30)**
-„Contextual Intelligence sortiert den Lärm. 22 Datenquellen, klare Signale. openDesk-Transfer: digitale Souveränität auf eigener Hardware. Pilot mit Siemens Healthineers. 299 Euro im Monat. Testen Sie es. Danke."
+„Contextual Intelligence sortiert den Lärm — 22 Datenquellen, semantischer Graph: heiß, warm, kalt. openDesk: digitale Souveränität auf eigener Hardware, keine Cloud. 299 Euro, 14 Mal günstiger als vergleichbare Dienste. Pilot mit Siemens Healthineers. Testen Sie es. Danke."
