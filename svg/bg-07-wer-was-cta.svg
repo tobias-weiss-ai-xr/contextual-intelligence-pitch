@@ -70,10 +70,10 @@
     <rect x="15" y="320" width="390" height="50" rx="25" fill="none" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.4"/>
     <text x="210" y="352" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="700" fill="#06b6d4" text-anchor="middle" letter-spacing="3">TEAM · MARBURG + FRANKFURT</text>
 
-    <!-- LOEWE -->
+    <!-- Uni Marburg MAFEX & StartMiUp -->
     <rect x="15" y="400" width="390" height="60" rx="8" fill="none" stroke="#475569" stroke-width="1" stroke-dasharray="3"/>
-    <text x="30" y="428" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="600" fill="#64748b">LOEWE-Forschungsverbund</text>
-    <text x="30" y="450" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#475569">Universität Gießen + Marburg</text>
+    <text x="30" y="428" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="600" fill="#64748b">Uni Marburg MAFEX &amp; StartMiUp</text>
+    <text x="30" y="450" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#475569">Universität Marburg + StartMiUp</text>
   </g>
 
   <!-- ===== MIDDLE: Brand visual ===== -->
