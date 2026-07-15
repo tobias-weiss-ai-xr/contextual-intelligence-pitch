@@ -126,7 +126,7 @@
 > *[Tobias wieder im Bild. Background zeigt 3 Säulen: Resources | Activities | Partners.]*
 
 **(1:24–1:36) Technik und Werkzeuge:**
-„Souveräne Inferencing-Hardware lokal vor Ort — keine Cloud. Offene KI-Modelle auf eigener Hardware, vollständig DSGVO-konform. Echtzeit-Daten aus globalen Quellen, 2.500 Unternehmen, 50.000 Signale im Graph. Ergebnis: Signale, kein Rauschen."
+„Souveräne Inferencing-Hardware vor Ort — keine Cloud. Offene KI-Modelle auf eigener Hardware, vollständig DSGVO-konform. Echtzeit-Daten aus globalen Quellen, 2.500 Unternehmen, 50.000 Signale im Graph. Ergebnis: Signale, kein Rauschen."
 *pause*
 
 **(1:36–1:54) Partner:**
@@ -161,7 +161,7 @@
 > *[Marc wieder im Bild. Background zeigt Voting-Callout, Produkte, Logo. Energisch, Blick in Kamera.]*
 
 **(2:17–2:37) CTA:**
-„Contextual Intelligence ist live — Plattform und offene Daten. Testen Sie es, stimmen Sie ab. Wir sind CI — Tobias aus Marburg, ich aus Frankfurt. Wir machen MedTech-Vertrieb intelligent. Wir brauchen Ihre Stimme."
+„Contextual Intelligence ist live — Plattform und offene Daten. Testen Sie es auf contextual-intelligence.org. Stimmen Sie ab — wir sind CI. Tobias aus Marburg, ich aus Frankfurt. Wir machen MedTech-Vertrieb intelligent. Wir brauchen Ihre Stimme."
 *pause — Blick in Kamera*
 „Danke."
 

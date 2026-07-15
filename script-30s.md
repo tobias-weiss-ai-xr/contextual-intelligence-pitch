@@ -55,7 +55,7 @@
 > *[Tobias zeigt auf mittlere, dann rechte Spalte — energisch]*
 
 **(0:15–0:30)**
-„Wir haben gebaut, was fehlt: Echtzeit-Datenquellen, Wissensgraph, KI-Scoring — auf eigener Hardware, DSGVO-konform. 299 Euro im Monat, um ein Vielfaches günstiger als Citeline. Selbstfinanziert. Testen Sie es auf contextual-intelligence.org. Danke."
+„Wir haben gebaut, was fehlt: Echtzeit-Datenquellen, Wissensgraph, KI-Scoring — auf eigener Hardware, DSGVO-konform. 299 Euro im Monat, um ein Vielfaches günstiger als Citeline — selbstfinanziert. Testen Sie es auf contextual-intelligence.org. Danke."
 
 ---
 

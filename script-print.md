@@ -67,7 +67,7 @@
 *[Tobias wieder im Bild. Background: 3 Säulen — Resources / Activities / Partners]*
 
 **(1:24–1:36) Technik:**
-„Souveräne Inferencing-Hardware lokal vor Ort — keine Cloud. Offene KI-Modelle auf eigener Hardware, vollständig DSGVO-konform. Echtzeit-Daten aus globalen Quellen, 2.500 Unternehmen, 50.000 Signale im Graph. Ergebnis: Signale, kein Rauschen."
+„Souveräne Inferencing-Hardware vor Ort — keine Cloud. Offene KI-Modelle auf eigener Hardware, vollständig DSGVO-konform. Echtzeit-Daten aus globalen Quellen, 2.500 Unternehmen, 50.000 Signale im Graph. Ergebnis: Signale, kein Rauschen."
 *Pause*
 
 **(1:36–1:54) Partner:**
@@ -94,7 +94,7 @@
 *[Marc wieder im Bild. Background: Voting links / Produkte rechts / Logo unten. Energisch]*
 
 **(2:17–2:37) CTA:**
-„Contextual Intelligence ist live — Plattform und offene Daten. Testen Sie es, stimmen Sie ab. Wir sind CI — Tobias aus Marburg, ich aus Frankfurt. Wir machen MedTech-Vertrieb intelligent. Wir brauchen Ihre Stimme."
+„Contextual Intelligence ist live — Plattform und offene Daten. Testen Sie es auf contextual-intelligence.org. Stimmen Sie ab — wir sind CI. Tobias aus Marburg, ich aus Frankfurt. Wir machen MedTech-Vertrieb intelligent. Wir brauchen Ihre Stimme."
 *Pause — Blick in Kamera*
 „Danke."
 
@@ -126,7 +126,7 @@
 *[Tobias zeigt auf mittlere, dann rechte Spalte — energisch]*
 
 **(0:15–0:30)**
-„Wir haben gebaut, was fehlt: Echtzeit-Datenquellen, Wissensgraph, KI-Scoring — auf eigener Hardware, DSGVO-konform. 299 Euro im Monat, um ein Vielfaches günstiger als Citeline. Selbstfinanziert. Testen Sie es auf contextual-intelligence.org. Danke."
+„Wir haben gebaut, was fehlt: Echtzeit-Datenquellen, Wissensgraph, KI-Scoring — auf eigener Hardware, DSGVO-konform. 299 Euro im Monat, um ein Vielfaches günstiger als Citeline — selbstfinanziert. Testen Sie es auf contextual-intelligence.org. Danke."
 
 ---
 
