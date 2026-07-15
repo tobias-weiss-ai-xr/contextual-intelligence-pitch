@@ -43,7 +43,7 @@
   <rect x="0" y="0" width="1920" height="4" fill="url(#accent)"/>
 
   <!-- ===== TOP STRIP ===== -->
-  <text x="960" y="120" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="72" font-weight="700" fill="#ffffff" letter-spacing="20" text-anchor="middle" filter="url(#glow)">WER · WAS · CTA</text>
+  <text x="960" y="120" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="72" font-weight="700" fill="#ffffff" letter-spacing="20" text-anchor="middle">WER · WAS · CTA</text>
   <line x1="760" y1="150" x2="1160" y2="150" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
 
   <!-- ===== LEFT: WER ===== -->

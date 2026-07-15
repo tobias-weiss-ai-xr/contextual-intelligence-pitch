@@ -45,7 +45,7 @@
 
   <ellipse cx="960" cy="130" rx="350" ry="100" fill="url(#accent)" opacity="0.06" filter="url(#softGlow)"/>
 
-  <text x="960" y="120" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="72" font-weight="700" fill="#ffffff" letter-spacing="16" text-anchor="middle" filter="url(#glow)">CALL TO ACTION</text>
+  <text x="960" y="120" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="72" font-weight="700" fill="#ffffff" letter-spacing="16" text-anchor="middle">CALL TO ACTION</text>
   <rect x="840" y="145" width="240" height="3" fill="url(#accent)" rx="1.5"/>
 
   <!-- LEFT: Voting CTA -->

@@ -42,7 +42,7 @@
     <circle cx="140" cy="150" r="28" fill="url(#accent)" opacity="0.4"/>
   </g>
 
-  <text x="960" y="130" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="72" font-weight="700" fill="#ffffff" letter-spacing="12" text-anchor="middle" filter="url(#glow)">SCHLÜSSELFAKTOREN</text>
+  <text x="960" y="130" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="72" font-weight="700" fill="#ffffff" letter-spacing="12" text-anchor="middle">SCHLÜSSELFAKTOREN</text>
   <rect x="740" y="150" width="440" height="3" fill="url(#accent)" rx="1.5"/>
 
   <!-- RESSOURCEN -->
