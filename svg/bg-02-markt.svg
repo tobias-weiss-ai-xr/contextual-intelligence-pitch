@@ -8,100 +8,85 @@
       <stop offset="0%" stop-color="#06b6d4"/>
       <stop offset="100%" stop-color="#6366f1"/>
     </linearGradient>
-    <linearGradient id="cardLight" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0.05"/>
-    </linearGradient>
-    <linearGradient id="cardDark" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#6366f1" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="#6366f1" stop-opacity="0.05"/>
-    </linearGradient>
-    <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <radialGradient id="vignette" cx="50%" cy="50%" r="75%">
-      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0.35"/>
+    <filter id="bgBlur"><feGaussianBlur stdDeviation="120"/></filter>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="20" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <radialGradient id="vignette" cx="50%" cy="45%" r="70%">
+      <stop offset="40%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.5"/>
     </radialGradient>
   </defs>
 
   <rect width="1920" height="1080" fill="url(#bg)"/>
 
-  <g opacity="0.03" stroke="#ffffff" stroke-width="0.5">
-    <line x1="0" y1="180" x2="1920" y2="180"/><line x1="0" y1="360" x2="1920" y2="360"/>
-    <line x1="0" y1="540" x2="1920" y2="540"/><line x1="0" y1="720" x2="1920" y2="720"/>
-    <line x1="0" y1="900" x2="1920" y2="900"/>
-    <line x1="240" y1="0" x2="240" y2="1080"/><line x1="480" y1="0" x2="480" y2="1080"/>
-    <line x1="720" y1="0" x2="720" y2="1080"/><line x1="960" y1="0" x2="960" y2="1080"/>
-    <line x1="1200" y1="0" x2="1200" y2="1080"/><line x1="1440" y1="0" x2="1440" y2="1080"/>
-    <line x1="1680" y1="0" x2="1680" y2="1080"/>
+  <circle cx="300" cy="400" r="280" fill="#06b6d4" opacity="0.05" filter="url(#bgBlur)"/>
+  <circle cx="1620" cy="500" r="250" fill="#6366f1" opacity="0.04" filter="url(#bgBlur)"/>
+
+  <!-- Logo -->
+  <g transform="translate(60, 55)">
+    <polygon points="0,-40 70,-20 70,20 0,40 -70,20 -70,-20" fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.35"/>
+    <circle cx="0" cy="0" r="18" fill="url(#accent)" filter="url(#glow)"/>
+    <circle cx="0" cy="0" r="7" fill="#ffffff" opacity="0.9"/>
   </g>
+  <text x="60" y="115" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" letter-spacing="3" text-anchor="middle">CONTEXTUAL INTELLIGENCE</text>
+  <text x="60" y="132" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#475569" text-anchor="middle">orsd.contextual-intelligence.org</text>
 
-  <rect x="0" y="0" width="1920" height="4" fill="url(#accent)"/>
+  <!-- Title -->
+  <text x="960" y="70" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="48" font-weight="700" fill="#ffffff" letter-spacing="6" text-anchor="middle">MARKT &amp; ZIELGRUPPEN</text>
+  <rect x="800" y="85" width="320" height="2" fill="url(#accent)" rx="1"/>
 
-  <g transform="translate(40, 30) scale(0.35)">
-    <polygon points="140,0 260,75 260,225 140,300 20,225 20,75" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.25"/>
-    <circle cx="140" cy="150" r="28" fill="url(#accent)" opacity="0.4"/>
-    <circle cx="140" cy="150" r="10" fill="#ffffff" opacity="0.4"/>
-    <circle cx="140" cy="55" r="12" fill="#06b6d4" opacity="0.4"/>
-    <circle cx="225" cy="103" r="10" fill="#6366f1" opacity="0.3"/>
-    <circle cx="225" cy="197" r="10" fill="#06b6d4" opacity="0.3"/>
-    <circle cx="140" cy="245" r="12" fill="#6366f1" opacity="0.4"/>
-    <circle cx="55" cy="197" r="10" fill="#06b6d4" opacity="0.3"/>
-    <circle cx="55" cy="103" r="10" fill="#6366f1" opacity="0.3"/>
-  </g>
+  <!-- Separator lines -->
+  <line x1="420" y1="120" x2="420" y2="1000" stroke="url(#accent)" stroke-width="1" opacity="0.08"/>
+  <line x1="1500" y1="120" x2="1500" y2="1000" stroke="url(#accent)" stroke-width="1" opacity="0.08"/>
 
-  <text x="960" y="130" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="72" font-weight="700" fill="#ffffff" letter-spacing="10" text-anchor="middle">MARKT &amp; ZIELGRUPPEN</text>
-  <rect x="740" y="150" width="440" height="3" fill="url(#accent)" rx="1.5"/>
+  <!-- LEFT: ZIELGRUPPEN -->
+  <text x="245" y="180" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="700" fill="#06b6d4" letter-spacing="3" text-anchor="middle">ZIELGRUPPEN</text>
 
-  <!-- Customer segments - 2x2 grid, simplified -->
-  <!-- S - Deep-Tech-Startups -->
-  <rect x="40" y="280" width="440" height="180" rx="12" fill="url(#cardLight)" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.3"/>
-  <circle cx="75" cy="320" r="18" fill="#06b6d4" opacity="0.3"/>
-  <text x="75" y="326" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="700">S</text>
-  <text x="110" y="326" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="600" fill="#e2e8f0">Deep-Tech-Startups</text>
-  <text x="75" y="390" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="48" font-weight="700" fill="#06b6d4">~4.000</text>
-  <text x="75" y="430" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" fill="#94a3b8">in DACH</text>
+  <circle cx="150" cy="270" r="16" fill="#06b6d4" opacity="0.25"/>
+  <text x="150" y="277" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#fff" text-anchor="middle" font-weight="700">S</text>
+  <text x="180" y="277" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="600" fill="#e2e8f0">Deep-Tech</text>
+  <text x="180" y="310" font-family="'Segoe UI',Arial,sans-serif" font-size="36" font-weight="700" fill="#06b6d4">~4.000</text>
 
-  <!-- U - Unis & Forschung -->
-  <rect x="520" y="280" width="440" height="180" rx="12" fill="url(#cardDark)" stroke="#6366f1" stroke-width="1" stroke-opacity="0.3"/>
-  <circle cx="555" cy="320" r="18" fill="#6366f1" opacity="0.3"/>
-  <text x="555" y="326" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="700">U</text>
-  <text x="590" y="326" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="600" fill="#e2e8f0">Unis &amp; Forschung</text>
-  <text x="555" y="390" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="48" font-weight="700" fill="#6366f1">~1.000</text>
-  <text x="555" y="430" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" fill="#94a3b8">Institute in DACH</text>
+  <circle cx="150" cy="390" r="16" fill="#6366f1" opacity="0.25"/>
+  <text x="150" y="397" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#fff" text-anchor="middle" font-weight="700">U</text>
+  <text x="180" y="397" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="600" fill="#e2e8f0">Unis &amp; Forschung</text>
+  <text x="180" y="430" font-family="'Segoe UI',Arial,sans-serif" font-size="36" font-weight="700" fill="#6366f1">~1.000</text>
 
-  <!-- K - KMU mit FuE -->
-  <rect x="40" y="500" width="440" height="180" rx="12" fill="url(#cardDark)" stroke="#6366f1" stroke-width="1" stroke-opacity="0.3"/>
-  <circle cx="75" cy="540" r="18" fill="#6366f1" opacity="0.3"/>
-  <text x="75" y="546" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="700">K</text>
-  <text x="110" y="546" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="600" fill="#e2e8f0">KMU mit FuE</text>
-  <text x="75" y="610" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="48" font-weight="700" fill="#6366f1">~15.000</text>
-  <text x="75" y="650" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" fill="#94a3b8">in DACH</text>
+  <circle cx="150" cy="510" r="16" fill="#6366f1" opacity="0.25"/>
+  <text x="150" y="517" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#fff" text-anchor="middle" font-weight="700">K</text>
+  <text x="180" y="517" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="600" fill="#e2e8f0">KMU mit FuE</text>
+  <text x="180" y="550" font-family="'Segoe UI',Arial,sans-serif" font-size="36" font-weight="700" fill="#6366f1">~15.000</text>
 
-  <!-- B - B2B-Vertriebsteams (MedTech) -->
-  <rect x="520" y="500" width="440" height="180" rx="12" fill="url(#cardLight)" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.3"/>
-  <circle cx="555" cy="540" r="18" fill="#06b6d4" opacity="0.3"/>
-  <text x="555" y="546" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" fill="#ffffff" text-anchor="middle" font-weight="700">B</text>
-  <text x="590" y="546" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="600" fill="#e2e8f0">B2B-Vertrieb (MedTech)</text>
-  <text x="555" y="610" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="48" font-weight="700" fill="#06b6d4">~5.000</text>
-  <text x="555" y="650" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" fill="#94a3b8">Teams in DACH</text>
+  <circle cx="150" cy="630" r="16" fill="#06b6d4" opacity="0.25"/>
+  <text x="150" y="637" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#fff" text-anchor="middle" font-weight="700">B</text>
+  <text x="180" y="637" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="600" fill="#e2e8f0">B2B MedTech</text>
+  <text x="180" y="670" font-family="'Segoe UI',Arial,sans-serif" font-size="36" font-weight="700" fill="#06b6d4">~5.000</text>
 
-  <!-- TAM/SAM/SOM - right side big numbers -->
-  <rect x="1060" y="280" width="400" height="150" rx="12" fill="#06b6d4" opacity="0.08" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.3"/>
-  <text x="1260" y="325" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#06b6d4" text-anchor="middle" letter-spacing="3">TAM</text>
-  <text x="1260" y="390" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="48" font-weight="700" fill="#ffffff" text-anchor="middle">€1,15 Mrd.</text>
+  <!-- RIGHT: MARKTVOLUMEN -->
+  <text x="1675" y="180" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="700" fill="#6366f1" letter-spacing="3" text-anchor="middle">MARKTVOLUMEN</text>
 
-  <rect x="1060" y="460" width="400" height="150" rx="12" fill="#6366f1" opacity="0.08" stroke="#6366f1" stroke-width="1" stroke-opacity="0.3"/>
-  <text x="1260" y="505" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#6366f1" text-anchor="middle" letter-spacing="3">SAM</text>
-  <text x="1260" y="570" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="48" font-weight="700" fill="#ffffff" text-anchor="middle">€34–121 Mio.</text>
+  <text x="1675" y="280" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="700" fill="#06b6d4" letter-spacing="2" text-anchor="middle">TAM</text>
+  <text x="1675" y="325" font-family="'Segoe UI',Arial,sans-serif" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">€1,15 Mrd.</text>
 
-  <rect x="1060" y="640" width="400" height="130" rx="12" fill="url(#accent)" opacity="0.1" stroke="url(#accent)" stroke-width="1" stroke-opacity="0.3"/>
-  <text x="1260" y="680" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#06b6d4" text-anchor="middle" letter-spacing="3">SOM Y3</text>
-  <text x="1260" y="740" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="42" font-weight="700" fill="#ffffff" text-anchor="middle">€144–288k</text>
+  <line x1="1550" y1="355" x2="1800" y2="355" stroke="#475569" stroke-width="0.5" opacity="0.4"/>
 
-  <!-- Bottom row: pricing -->
-  <rect x="1060" y="800" width="400" height="80" rx="12" fill="#22c55e" opacity="0.08" stroke="#22c55e" stroke-width="1" stroke-opacity="0.3"/>
-  <text x="1260" y="835" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="700" fill="#22c55e" text-anchor="middle" letter-spacing="3">PREISE</text>
-  <text x="1260" y="865" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="28" font-weight="700" fill="#ffffff" text-anchor="middle">€299–€1.000 / Monat</text>
+  <text x="1675" y="410" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="700" fill="#6366f1" letter-spacing="2" text-anchor="middle">SAM</text>
+  <text x="1675" y="455" font-family="'Segoe UI',Arial,sans-serif" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">€34–121 Mio.</text>
+
+  <line x1="1550" y1="485" x2="1800" y2="485" stroke="#475569" stroke-width="0.5" opacity="0.4"/>
+
+  <text x="1675" y="540" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="700" fill="#06b6d4" letter-spacing="2" text-anchor="middle">SOM Y3</text>
+  <text x="1675" y="585" font-family="'Segoe UI',Arial,sans-serif" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">€144–288k</text>
+
+  <line x1="1550" y1="615" x2="1800" y2="615" stroke="#475569" stroke-width="0.5" opacity="0.4"/>
+
+  <text x="1675" y="680" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="700" fill="#22c55e" letter-spacing="2" text-anchor="middle">MODELL</text>
+  <text x="1675" y="720" font-family="'Segoe UI',Arial,sans-serif" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle">Auf Anfrage</text>
+
+  <!-- Footer -->
+  <text x="960" y="1040" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="600" fill="#94a3b8" text-anchor="middle" letter-spacing="4">Self-Bootstrap · Nebenerwerb · Eigenfinanziert</text>
 
   <rect width="1920" height="1080" fill="url(#vignette)" pointer-events="none"/>
 </svg>

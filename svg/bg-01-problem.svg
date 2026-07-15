@@ -8,100 +8,68 @@
       <stop offset="0%" stop-color="#06b6d4"/>
       <stop offset="100%" stop-color="#6366f1"/>
     </linearGradient>
-    <linearGradient id="painGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#ef4444" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="#ef4444" stop-opacity="0.05"/>
-    </linearGradient>
-    <linearGradient id="gainGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#22c55e" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="#22c55e" stop-opacity="0.05"/>
-    </linearGradient>
-    <linearGradient id="flowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ef4444" stop-opacity="0"/>
-      <stop offset="40%" stop-color="#06b6d4" stop-opacity="0.3"/>
-      <stop offset="50%" stop-color="#6366f1" stop-opacity="0.4"/>
-      <stop offset="60%" stop-color="#06b6d4" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#22c55e" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <radialGradient id="vignette" cx="50%" cy="50%" r="75%">
-      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0.35"/>
+    <filter id="bgBlur"><feGaussianBlur stdDeviation="120"/></filter>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="20" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <radialGradient id="vignette" cx="50%" cy="45%" r="70%">
+      <stop offset="40%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.5"/>
     </radialGradient>
   </defs>
 
   <rect width="1920" height="1080" fill="url(#bg)"/>
 
-  <g opacity="0.03" stroke="#ffffff" stroke-width="0.5">
-    <line x1="0" y1="180" x2="1920" y2="180"/><line x1="0" y1="360" x2="1920" y2="360"/>
-    <line x1="0" y1="540" x2="1920" y2="540"/><line x1="0" y1="720" x2="1920" y2="720"/>
-    <line x1="0" y1="900" x2="1920" y2="900"/>
-    <line x1="240" y1="0" x2="240" y2="1080"/><line x1="480" y1="0" x2="480" y2="1080"/>
-    <line x1="720" y1="0" x2="720" y2="1080"/><line x1="960" y1="0" x2="960" y2="1080"/>
-    <line x1="1200" y1="0" x2="1200" y2="1080"/><line x1="1440" y1="0" x2="1440" y2="1080"/>
-    <line x1="1680" y1="0" x2="1680" y2="1080"/>
+  <circle cx="300" cy="400" r="300" fill="#ef4444" opacity="0.04" filter="url(#bgBlur)"/>
+  <circle cx="1620" cy="350" r="250" fill="#06b6d4" opacity="0.05" filter="url(#bgBlur)"/>
+  <circle cx="960" cy="920" r="200" fill="#6366f1" opacity="0.04" filter="url(#bgBlur)"/>
+
+  <!-- Logo -->
+  <g transform="translate(60, 55)">
+    <polygon points="0,-40 70,-20 70,20 0,40 -70,20 -70,-20" fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.35"/>
+    <circle cx="0" cy="0" r="18" fill="url(#accent)" filter="url(#glow)"/>
+    <circle cx="0" cy="0" r="7" fill="#ffffff" opacity="0.9"/>
   </g>
+  <text x="60" y="115" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" letter-spacing="3" text-anchor="middle">CONTEXTUAL INTELLIGENCE</text>
+  <text x="60" y="132" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#475569" text-anchor="middle">orsd.contextual-intelligence.org</text>
 
-  <rect x="0" y="0" width="1920" height="4" fill="url(#accent)"/>
+  <!-- Title -->
+  <text x="960" y="70" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="56" font-weight="700" fill="#ffffff" letter-spacing="8" text-anchor="middle">HERAUSFORDERUNG</text>
+  <rect x="830" y="85" width="260" height="2" fill="url(#accent)" rx="1"/>
 
-  <g transform="translate(40, 30) scale(0.35)">
-    <polygon points="140,0 260,75 260,225 140,300 20,225 20,75" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.25"/>
-    <circle cx="140" cy="150" r="28" fill="url(#accent)" opacity="0.4"/>
-    <circle cx="140" cy="150" r="10" fill="#ffffff" opacity="0.4"/>
-    <circle cx="140" cy="55" r="12" fill="#06b6d4" opacity="0.4"/>
-    <circle cx="225" cy="103" r="10" fill="#6366f1" opacity="0.3"/>
-    <circle cx="225" cy="197" r="10" fill="#06b6d4" opacity="0.3"/>
-    <circle cx="140" cy="245" r="12" fill="#6366f1" opacity="0.4"/>
-    <circle cx="55" cy="197" r="10" fill="#06b6d4" opacity="0.3"/>
-    <circle cx="55" cy="103" r="10" fill="#6366f1" opacity="0.3"/>
-  </g>
+  <!-- Separator lines -->
+  <line x1="420" y1="120" x2="420" y2="1000" stroke="url(#accent)" stroke-width="1" opacity="0.08"/>
+  <line x1="1500" y1="120" x2="1500" y2="1000" stroke="url(#accent)" stroke-width="1" opacity="0.08"/>
 
-  <text x="960" y="130" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="72" font-weight="700" fill="#ffffff" letter-spacing="12" text-anchor="middle">HERAUSFORDERUNG</text>
-  <rect x="840" y="150" width="240" height="3" fill="url(#accent)" rx="1.5"/>
+  <!-- LEFT: PAIN -->
+  <text x="245" y="180" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="700" fill="#ef4444" letter-spacing="4" text-anchor="middle">PAIN</text>
+  <line x1="150" y1="200" x2="340" y2="200" stroke="#ef4444" stroke-width="1" opacity="0.3"/>
 
-  <!-- PAIN column - simplified to 3 keywords -->
-  <rect x="50" y="280" width="410" height="380" rx="12" fill="url(#painGrad)" stroke="#ef4444" stroke-width="1" stroke-opacity="0.3"/>
-  <text x="255" y="340" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="700" fill="#ef4444" letter-spacing="4" text-anchor="middle">PAIN</text>
-  <line x1="120" y1="370" x2="390" y2="370" stroke="#ef4444" stroke-width="1" opacity="0.4"/>
+  <circle cx="150" cy="290" r="7" fill="#ef4444" opacity="0.6"/>
+  <text x="175" y="300" font-family="'Segoe UI',Arial,sans-serif" font-size="32" font-weight="600" fill="#e2e8f0">Kein Kontext</text>
 
-  <circle cx="100" cy="430" r="8" fill="#ef4444" opacity="0.7"/>
-  <text x="130" y="442" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="600" fill="#e2e8f0">Kein Kontext</text>
+  <circle cx="150" cy="390" r="7" fill="#ef4444" opacity="0.6"/>
+  <text x="175" y="400" font-family="'Segoe UI',Arial,sans-serif" font-size="32" font-weight="600" fill="#e2e8f0">Manuelle Suche</text>
 
-  <circle cx="100" cy="520" r="8" fill="#ef4444" opacity="0.7"/>
-  <text x="130" y="532" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="600" fill="#e2e8f0">Manuelle Suche</text>
+  <circle cx="150" cy="490" r="7" fill="#ef4444" opacity="0.6"/>
+  <text x="175" y="500" font-family="'Segoe UI',Arial,sans-serif" font-size="32" font-weight="600" fill="#e2e8f0">Signal-Overload</text>
 
-  <circle cx="100" cy="610" r="8" fill="#ef4444" opacity="0.7"/>
-  <text x="130" y="622" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="600" fill="#e2e8f0">Signal-Overload</text>
+  <!-- RIGHT: GAIN -->
+  <text x="1675" y="180" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="700" fill="#22c55e" letter-spacing="4" text-anchor="middle">GAIN</text>
+  <line x1="1580" y1="200" x2="1770" y2="200" stroke="#22c55e" stroke-width="1" opacity="0.3"/>
 
-  <!-- GAIN column - simplified to 3 keywords -->
-  <rect x="1460" y="280" width="410" height="380" rx="12" fill="url(#gainGrad)" stroke="#22c55e" stroke-width="1" stroke-opacity="0.3"/>
-  <text x="1665" y="340" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="700" fill="#22c55e" letter-spacing="4" text-anchor="middle">GAIN</text>
-  <line x1="1525" y1="370" x2="1805" y2="370" stroke="#22c55e" stroke-width="1" opacity="0.4"/>
+  <circle cx="1530" cy="290" r="7" fill="#22c55e" opacity="0.6"/>
+  <text x="1555" y="300" font-family="'Segoe UI',Arial,sans-serif" font-size="32" font-weight="600" fill="#e2e8f0">FDA / Patente</text>
 
-  <circle cx="1510" cy="430" r="8" fill="#22c55e" opacity="0.7"/>
-  <text x="1540" y="442" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="600" fill="#e2e8f0">FDA / Patente</text>
+  <circle cx="1530" cy="390" r="7" fill="#22c55e" opacity="0.6"/>
+  <text x="1555" y="400" font-family="'Segoe UI',Arial,sans-serif" font-size="32" font-weight="600" fill="#e2e8f0">Strukturiert</text>
 
-  <circle cx="1510" cy="520" r="8" fill="#22c55e" opacity="0.7"/>
-  <text x="1540" y="532" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="600" fill="#e2e8f0">Strukturiert</text>
+  <circle cx="1530" cy="490" r="7" fill="#22c55e" opacity="0.6"/>
+  <text x="1555" y="500" font-family="'Segoe UI',Arial,sans-serif" font-size="32" font-weight="600" fill="#e2e8f0">Wochen Vorsprung</text>
 
-  <circle cx="1510" cy="610" r="8" fill="#22c55e" opacity="0.7"/>
-  <text x="1540" y="622" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="36" font-weight="600" fill="#e2e8f0">Wochen Vorsprung</text>
-
-  <!-- Flow bar -->
-  <rect x="50" y="876" width="1820" height="3" rx="1.5" fill="url(#flowGrad)"/>
-  <circle cx="255" cy="877" r="4" fill="#ef4444" opacity="0.6"/>
-  <circle cx="960" cy="877" r="4" fill="#6366f1" opacity="0.6"/>
-  <circle cx="1665" cy="877" r="4" fill="#22c55e" opacity="0.6"/>
-
-  <!-- Bottom bar - reduced -->
-  <rect x="0" y="880" width="1920" height="200" fill="#1e293b" opacity="0.6"/>
-
-  <text x="960" y="960" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="32" fill="#94a3b8" text-anchor="middle">
-    <tspan fill="#6366f1" font-weight="700">22</tspan> Datenquellen · 
-    <tspan fill="#06b6d4" font-weight="700">10</tspan> Regulatoren · 
-    <tspan fill="#6366f1" font-weight="700">1</tspan> Graph · 
-    <tspan fill="#06b6d4" font-weight="700">€299</tspan>/Monat Lead Intelligence
-  </text>
+  <!-- Footer -->
+  <text x="960" y="1040" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="600" fill="#94a3b8" text-anchor="middle" letter-spacing="4">Self-Bootstrap · Nebenerwerb · Eigenfinanziert</text>
 
   <rect width="1920" height="1080" fill="url(#vignette)" pointer-events="none"/>
 </svg>

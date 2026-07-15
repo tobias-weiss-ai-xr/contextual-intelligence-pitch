@@ -8,128 +8,69 @@
       <stop offset="0%" stop-color="#06b6d4"/>
       <stop offset="100%" stop-color="#6366f1"/>
     </linearGradient>
-    <linearGradient id="colGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.12"/>
-      <stop offset="100%" stop-color="#6366f1" stop-opacity="0.04"/>
-    </linearGradient>
-    <linearGradient id="connLine" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0"/>
-      <stop offset="30%" stop-color="#06b6d4" stop-opacity="0.25"/>
-      <stop offset="50%" stop-color="#6366f1" stop-opacity="0.35"/>
-      <stop offset="70%" stop-color="#6366f1" stop-opacity="0.25"/>
-      <stop offset="100%" stop-color="#6366f1" stop-opacity="0"/>
-    </linearGradient>
-    <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-    <radialGradient id="vignette" cx="50%" cy="50%" r="75%">
-      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0.35"/>
+    <filter id="bgBlur"><feGaussianBlur stdDeviation="120"/></filter>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="20" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <radialGradient id="vignette" cx="50%" cy="45%" r="70%">
+      <stop offset="40%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.5"/>
     </radialGradient>
   </defs>
 
   <rect width="1920" height="1080" fill="url(#bg)"/>
-  <g opacity="0.03" stroke="#ffffff" stroke-width="0.5">
-    <line x1="0" y1="180" x2="1920" y2="180"/><line x1="0" y1="360" x2="1920" y2="360"/>
-    <line x1="0" y1="540" x2="1920" y2="540"/><line x1="0" y1="720" x2="1920" y2="720"/>
-    <line x1="0" y1="900" x2="1920" y2="900"/>
-    <line x1="320" y1="0" x2="320" y2="1080"/><line x1="640" y1="0" x2="640" y2="1080"/>
-    <line x1="960" y1="0" x2="960" y2="1080"/><line x1="1280" y1="0" x2="1280" y2="1080"/>
-    <line x1="1600" y1="0" x2="1600" y2="1080"/>
-  </g>
-  <rect x="0" y="0" width="1920" height="4" fill="url(#accent)"/>
 
-  <g transform="translate(40, 30) scale(0.35)">
-    <polygon points="140,0 260,75 260,225 140,300 20,225 20,75" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.25"/>
-    <circle cx="140" cy="150" r="28" fill="url(#accent)" opacity="0.4"/>
-  </g>
+  <circle cx="350" cy="350" r="280" fill="#06b6d4" opacity="0.05" filter="url(#bgBlur)"/>
+  <circle cx="1500" cy="700" r="250" fill="#6366f1" opacity="0.04" filter="url(#bgBlur)"/>
 
-  <text x="960" y="130" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="72" font-weight="700" fill="#ffffff" letter-spacing="12" text-anchor="middle">SCHLÜSSELFAKTOREN</text>
-  <rect x="740" y="150" width="440" height="3" fill="url(#accent)" rx="1.5"/>
+  <!-- Logo -->
+  <g transform="translate(60, 55)">
+    <polygon points="0,-40 70,-20 70,20 0,40 -70,20 -70,-20" fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.35"/>
+    <circle cx="0" cy="0" r="18" fill="url(#accent)" filter="url(#glow)"/>
+    <circle cx="0" cy="0" r="7" fill="#ffffff" opacity="0.9"/>
+  </g>
+  <text x="60" y="115" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" letter-spacing="3" text-anchor="middle">CONTEXTUAL INTELLIGENCE</text>
+  <text x="60" y="132" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#475569" text-anchor="middle">orsd.contextual-intelligence.org</text>
 
-  <!-- RESSOURCEN -->
-  <rect x="40" y="280" width="440" height="560" rx="12" fill="url(#colGrad)" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.25"/>
-  <rect x="40" y="280" width="440" height="50" rx="12" fill="#06b6d4" opacity="0.1"/>
-  <rect x="40" y="318" width="440" height="12" fill="#06b6d4" opacity="0.06"/>
-  <text x="260" y="312" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="700" fill="#06b6d4" letter-spacing="4" text-anchor="middle">RESSOURCEN</text>
+  <!-- Title -->
+  <text x="960" y="70" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="56" font-weight="700" fill="#ffffff" letter-spacing="8" text-anchor="middle">SCHLÜSSELFAKTOREN</text>
+  <rect x="780" y="85" width="360" height="2" fill="url(#accent)" rx="1"/>
 
-  <g transform="translate(55, 350)">
-    <rect x="0" y="0" width="410" height="60" rx="6" fill="#1e293b" opacity="0.5"/>
-    <text x="20" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="24" font-weight="600" fill="#e2e8f0">Datenbank (Dgraph + PostgreSQL)</text>
-  </g>
-  <g transform="translate(55, 425)">
-    <rect x="0" y="0" width="410" height="60" rx="6" fill="#1e293b" opacity="0.5"/>
-    <text x="20" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="24" font-weight="600" fill="#e2e8f0">Open-Source Foundation Modelle</text>
-  </g>
-  <g transform="translate(55, 500)">
-    <rect x="0" y="0" width="410" height="60" rx="6" fill="#1e293b" opacity="0.5"/>
-    <text x="20" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="24" font-weight="600" fill="#e2e8f0">Crawler-Adapter</text>
-  </g>
-  <g transform="translate(55, 575)">
-    <rect x="0" y="0" width="410" height="60" rx="6" fill="#1e293b" opacity="0.5"/>
-    <text x="20" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="24" font-weight="600" fill="#e2e8f0">ORSD Dataset</text>
-  </g>
-  <g transform="translate(55, 650)">
-    <rect x="0" y="0" width="410" height="60" rx="6" fill="#1e293b" opacity="0.5"/>
-    <text x="20" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="24" font-weight="600" fill="#e2e8f0">Scoring Engine + AI Agents</text>
-  </g>
+  <!-- Separator lines -->
+  <line x1="420" y1="120" x2="420" y2="1000" stroke="url(#accent)" stroke-width="1" opacity="0.08"/>
+  <line x1="1500" y1="120" x2="1500" y2="1000" stroke="url(#accent)" stroke-width="1" opacity="0.08"/>
 
-  <!-- PARTNER -->
-  <rect x="40" y="720" width="440" height="130" rx="12" fill="url(#colGrad)" stroke="url(#accent)" stroke-width="1" stroke-opacity="0.2"/>
-  <text x="260" y="752" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="700" fill="#06b6d4" letter-spacing="4" text-anchor="middle">PARTNER</text>
+  <!-- LEFT: DATENQUELLEN -->
+  <text x="245" y="180" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="700" fill="#06b6d4" letter-spacing="3" text-anchor="middle">DATENQUELLEN</text>
+  <line x1="150" y1="200" x2="340" y2="200" stroke="#06b6d4" stroke-width="0.5" opacity="0.3"/>
 
-  <g transform="translate(55, 770)">
-    <rect x="0" y="0" width="200" height="40" rx="4" fill="#1e293b" opacity="0.5"/>
-    <text x="10" y="26" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="500" fill="#e2e8f0">Hetzner</text>
-  </g>
+  <text x="150" y="270" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#e2e8f0">Patente</text>
+  <text x="150" y="330" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#e2e8f0">Zulassungen</text>
+  <text x="150" y="390" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#e2e8f0">Publikationen</text>
+  <text x="150" y="450" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#e2e8f0">FDA / EMA</text>
+  <text x="150" y="510" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#e2e8f0">Unternehmensregister</text>
+  <text x="150" y="570" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#e2e8f0">MDR / IVDR</text>
+  <text x="150" y="630" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#e2e8f0">Klinische Studien</text>
 
-  <g transform="translate(55, 820)">
-    <rect x="0" y="0" width="200" height="40" rx="4" fill="#1e293b" opacity="0.5"/>
-    <text x="10" y="26" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="500" fill="#e2e8f0">Uni Marburg (MAFEX), StartMiUp</text>
-  </g>
-  <g transform="translate(265, 820)">
-    <rect x="0" y="0" width="200" height="40" rx="4" fill="#1e293b" opacity="0.5"/>
-    <text x="10" y="26" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="500" fill="#e2e8f0">DFN</text>
-  </g>
+  <text x="245" y="720" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="700" fill="#06b6d4" letter-spacing="3" text-anchor="middle">22 QUELLEN</text>
 
-  <!-- Connection indicator -->
-  <rect x="480" y="540" width="1000" height="3" rx="1.5" fill="url(#connLine)"/>
+  <!-- RIGHT: REGULATORY -->
+  <text x="1675" y="180" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="700" fill="#6366f1" letter-spacing="3" text-anchor="middle">REGULATORY</text>
+  <line x1="1580" y1="200" x2="1770" y2="200" stroke="#6366f1" stroke-width="0.5" opacity="0.3"/>
 
-  <!-- AKTIVITÄTEN -->
-  <rect x="1440" y="280" width="440" height="580" rx="12" fill="url(#colGrad)" stroke="#6366f1" stroke-width="1" stroke-opacity="0.25"/>
-  <rect x="1440" y="280" width="440" height="50" rx="12" fill="#6366f1" opacity="0.1"/>
-  <rect x="1440" y="318" width="440" height="12" fill="#6366f1" opacity="0.08"/>
-  <text x="1660" y="312" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="700" fill="#6366f1" letter-spacing="4" text-anchor="middle">AKTIVITÄTEN</text>
+  <text x="1530" y="270" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#e2e8f0">MDR 2027</text>
+  <text x="1530" y="330" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#e2e8f0">40.000 Produkte</text>
+  <text x="1530" y="390" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#e2e8f0">Semantischer Graph</text>
+  <text x="1530" y="450" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#e2e8f0">Heiß / Warm / Kalt</text>
+  <text x="1530" y="510" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#e2e8f0">DSGVO-konform</text>
+  <text x="1530" y="570" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#e2e8f0">On-Premise KI</text>
+  <text x="1530" y="630" font-family="'Segoe UI',Arial,sans-serif" font-size="26" fill="#e2e8f0">Open-Source FM</text>
 
-  <g transform="translate(1455, 350)">
-    <rect x="0" y="0" width="410" height="60" rx="6" fill="#1e293b" opacity="0.5"/>
-    <text x="20" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="24" font-weight="600" fill="#e2e8f0">Crawler-Wartung</text>
-  </g>
-  <g transform="translate(1455, 425)">
-    <rect x="0" y="0" width="410" height="60" rx="6" fill="#1e293b" opacity="0.5"/>
-    <text x="20" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="24" font-weight="600" fill="#e2e8f0">Embedding-Tuning</text>
-  </g>
-  <g transform="translate(1455, 500)">
-    <rect x="0" y="0" width="410" height="60" rx="6" fill="#1e293b" opacity="0.5"/>
-    <text x="20" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="24" font-weight="600" fill="#e2e8f0">AI-Agent-Entwicklung</text>
-  </g>
-  <g transform="translate(1455, 575)">
-    <rect x="0" y="0" width="410" height="60" rx="6" fill="#1e293b" opacity="0.5"/>
-    <text x="20" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="24" font-weight="600" fill="#e2e8f0">Content-Marketing</text>
-  </g>
-  <g transform="translate(1455, 650)">
-    <rect x="0" y="0" width="410" height="60" rx="6" fill="#1e293b" opacity="0.5"/>
-    <text x="20" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="24" font-weight="600" fill="#e2e8f0">ORSD Community</text>
-  </g>
+  <text x="1675" y="720" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="700" fill="#6366f1" letter-spacing="3" text-anchor="middle">10 REGULATOREN</text>
 
-  <!-- SELF-BOOTSTRAP bottom bar -->
-  <rect x="0" y="880" width="1920" height="200" fill="#1e293b" opacity="0.5"/>
-
-  <g transform="translate(960, 955)">
-    <rect x="-300" y="-25" width="600" height="70" rx="35" fill="url(#accent)" opacity="0.10" stroke="url(#accent)" stroke-width="1"/>
-    <text x="0" y="15" font-family="'Segoe UI',Arial,sans-serif" font-size="28" fill="#e2e8f0" text-anchor="middle">
-      <tspan font-weight="700" fill="#06b6d4">SELF-BOOTSTRAP</tspan>
-      <tspan fill="#94a3b8"> — Nebenerwerb · Kein Fremdkapital</tspan>
-    </text>
-  </g>
+  <!-- Footer -->
+  <text x="960" y="1040" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="600" fill="#94a3b8" text-anchor="middle" letter-spacing="4">Self-Bootstrap · Nebenerwerb · Eigenfinanziert</text>
 
   <rect width="1920" height="1080" fill="url(#vignette)" pointer-events="none"/>
 </svg>

@@ -16,5 +16,5 @@
 
 ## Sprecher
 
-- **Dr. Tobias Weiß** — Technik, KI-Plattform (Szenen 1, 4, 5)
-- **Marc Viel** — Product, Business (Szenen 2, 3, 6)
+- **Tobias** — Technik, KI-Plattform (Szenen 1, 4, 5)
+- **Marc** — Product, Business (Szenen 2, 3, 6)

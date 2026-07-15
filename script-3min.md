@@ -4,7 +4,7 @@
 > **Format:** Greenscreen, zwei Sprecher im Wechsel
 > **Stil:** Emotional, positiv, klar — Herausforderung, nicht Problem
 > **Hintergründe:** `png/bg-01-problem.png` bis `png/bg-06-cta.png`
-> **Sprecher:** Dr. Tobias Weiß (Technik) + Marc Viel (Business) — ca. 50/50 Redeanteil
+> **Sprecher:** Tobias (Technik) + Marc (Business) — ca. 50/50 Redeanteil
 
 ---
 
@@ -22,12 +22,12 @@
 
 | Szene | Zeit | Sprecher | SVG |
 |-------|------|----------|-----|
-| 1 Herausforderung | 0:00–0:25 | Dr. Tobias Weiß | `bg-01-problem.png` |
-| 2 Team & Markt | 0:25–0:48 | Marc Viel | `bg-02-markt.png` |
-| 3 Preise | 0:48–1:05 | Marc Viel | `bg-03-revenue.png` |
-| 4 Schlüsselfaktoren | 1:05–1:28 | Dr. Tobias Weiß | `bg-04-schluesselfaktoren.png` |
-| 5 Kosten | 1:28–1:45 | Dr. Tobias Weiß | `bg-05-kosten.png` |
-| 6 CTA | 1:45–2:15 | Marc Viel | `bg-06-cta.png` |
+| 1 Herausforderung | 0:00–0:25 | Tobias | `bg-01-problem.png` |
+| 2 Team & Markt | 0:25–0:48 | Tobias | `bg-02-markt.png` |
+| 3 Geschäftsmodell | 0:48–1:05 | Tobias | `bg-03-revenue.png` |
+| 4 Schlüsselfaktoren | 1:05–1:28 | Marc | `bg-04-schluesselfaktoren.png` |
+| 5 Kosten | 1:28–1:45 | Marc | `bg-05-kosten.png` |
+| 6 CTA | 1:45–2:15 | Marc | `bg-06-cta.png` |
 | Puffer | 2:15–3:00 | — | — |
 
 ---
@@ -36,7 +36,7 @@
 
 ---
 
-## SZENE 1 — HERAUSFORDERUNG (0:00–0:25) → Dr. Tobias Weiß · `bg-01-problem.png`
+## SZENE 1 — HERAUSFORDERUNG (0:00–0:25) → Tobias · `bg-01-problem.png`
 
 ![Szene 1: Herausforderung](png/bg-01-problem.png)
 
@@ -51,18 +51,18 @@
 
 **(0:18–0:25)**
 *Pause*
-„Contextual Intelligence gibt Ihnen Klarheit. 22 Datenquellen, semantischer Graph — heiß, warm, kalt. Pilot mit Siemens Healthineers."
+„Contextual Intelligence gibt Ihnen Klarheit. 22 Datenquellen, semantischer Graph — heiß, warm, kalt. Projektbasiert — individuell für Ihren Bedarf."
 
 ---
 
-## SZENE 2 — TEAM & MARKT (0:25–0:48) → Marc Viel · `bg-02-markt.png`
+## SZENE 2 — TEAM & MARKT (0:25–0:48) → Tobias · `bg-02-markt.png`
 
 ![Szene 2: Team & Markt](png/bg-02-markt.png)
 
-*[Marc Viel jetzt im Bild]*
+*[Tobias bleibt im Bild]*
 
 **(0:25–0:35)**
-„Marc Viel — Produkt und Kunden. Dr. Tobias Weiß kommt aus openDesk, digitale Souveränität. Siemens Healthineers hat den Bedarf klar formuliert — Marktgespräche bestätigen: die Unsicherheit ist real."
+„Ich bin Tobias, Marc und ich bauen Contextual Intelligence. Ich komme aus openDesk, digitale Souveränität. Siemens Healthineers hat den Bedarf klar formuliert — Marktgespräche bestätigen: die Unsicherheit ist real."
 
 **(0:35–0:42)**
 *Pause*
@@ -70,39 +70,41 @@
 
 **(0:42–0:48)**
 *Pause*
-„ORSD: offene Daten für alle. 50 Kunden, und wir stehen auf eigenen Beinen."
+„ORSD: offene Daten für alle. Und mit CI identifizieren wir Leads, die niemand eingibt — live."
 
 ---
 
-## SZENE 3 — PREISE (0:48–1:05) → Marc Viel · `bg-03-revenue.png`
+## SZENE 3 — GESCHÄFTSMODELL (0:48–1:05) → Tobias · `bg-03-revenue.png`
 
-![Szene 3: Preise](png/bg-03-revenue.png)
+![Szene 3: Geschäftsmodell](png/bg-03-revenue.png)
 
 **(0:48–0:57)**
-„Citeline, GlobalData: 50.000 Euro pro Jahr. Wir: 299 Euro im Monat. Gleiche Intelligence. 14 Mal günstiger."
+„Siemens Healthineers als Referenzkunde — der Proof, dass es funktioniert. Unser Go-to-Market: Hackathon. Echte Projekte für echten Pain des Kunden. Direkt am Problem."
 
 **(0:57–1:05)**
 *Pause*
-„Und wir finden Signale, die niemand eingibt — live. Sicherheit statt Rätselraten."
+„Self-Bootstrapping: Wir nutzen unser eigenes Tool für die Lead-Generierung. Das Produkt finanziert das Wachstum selbst. Projektbasiert, individuell — Auf Anfrage."
+
+*—— Hart-Schnitt: Tobias → Marc ——*
 
 ---
 
-## SZENE 4 — SCHLÜSSELFAKTOREN (1:05–1:28) → Dr. Tobias Weiß · `bg-04-schluesselfaktoren.png`
+## SZENE 4 — SCHLÜSSELFAKTOREN (1:05–1:28) → Marc · `bg-04-schluesselfaktoren.png`
 
 ![Szene 4: Schlüsselfaktoren](png/bg-04-schluesselfaktoren.png)
 
-*[Dr. Tobias Weiß zurück]*
+*[Marc im Bild]*
 
 **(1:05–1:17)**
 „openDesk war mein Schlüsselerlebnis: Kontrolle über die Infrastruktur — Kontrolle über die Daten. Souveräne Open-Source Foundation Modelle auf eigener Hardware — keine Cloud. Modernste KI, DSGVO."
 
 **(1:17–1:28)**
 *Pause*
-„Partner, die tragen: Hetzner, Uni Gießen. Siemens Healthineers als Pilot."
+„Partner, die tragen: Hetzner, Uni Gießen. Siemens Healthineers als Pilot. Und unser MOAT: ORSD als offener Standard und CRS als proprietäres Scoping — das kann niemand einfach kopieren."
 
 ---
 
-## SZENE 5 — KOSTEN (1:28–1:45) → Dr. Tobias Weiß · `bg-05-kosten.png`
+## SZENE 5 — KOSTEN (1:28–1:45) → Marc · `bg-05-kosten.png`
 
 ![Szene 5: Kosten](png/bg-05-kosten.png)
 
@@ -115,15 +117,16 @@
 
 ---
 
-## SZENE 6 — CTA (1:45–2:15) → Marc Viel · `bg-06-cta.png`
+## SZENE 6 — CTA (1:45–2:15) → Marc · `bg-06-cta.png`
 
 ![Szene 6: Call to Action](png/bg-06-cta.png)
 
-**(1:45–2:15)**
-„Contextual Intelligence ist live. Testen Sie es, stimmen Sie ab."
+**(1:45–2:00)**
+„Contextual Intelligence ist live. Vereinbaren Sie jetzt Ihren kostenlosen Demo-Termin und sehen Sie, welche aktuellen Leads auf Sie warten."
 
 *Pause — Lächeln*
 
+**(2:00–2:15)**
 „Tobias aus Marburg, ich aus Frankfurt. Wir machen MedTech-Vertrieb klar. Wir brauchen Ihre Stimme. Danke."
 
 ---
