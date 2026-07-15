@@ -52,11 +52,11 @@
 *[Background: Pricing-Tabelle + Wachstumsprognose]*
 
 **(1:00–1:12) Preise:**
-„Citeline oder GlobalData: 50.000 Euro pro Jahr — pro Lizenz. Wir bieten die gleiche Intelligence für 299 Euro im Monat. 14 Mal günstiger."
+„Citeline oder GlobalData: 50.000 Euro pro Jahr — pro Lizenz. Wir bieten die gleiche Intelligence für 299 Euro im Monat. Um ein Vielfaches günstiger."
 *Pause — Blick in Kamera*
 „Und wir finden Signale, die niemand eingibt: Patente, Zulassungen, Studien — live."
 
-**(1:12–1:24) Der entscheidende Vorteil:**
+**(1:12–1:24) Lead-Magnet:**
 *Pause*
 „Unser offener Datensatz ORSD: kostenlos, freie Lizenz. Jeder kann ihn nutzen — Startup oder Konzern. Kein Lock-in. Wer Echtzeit und KI-Analyse braucht, steigt auf die Bezahlversion. Wissen für alle, Premium für Profis."
 
@@ -72,7 +72,7 @@
 
 **(1:36–1:54) Partner:**
 *Pause*
-„Unsere Partner: Hetzner, z.ai, die Uni Gießen im LOEWE-Verbund. Wir sind kein Garagenprojekt — wir sind vernetzt."
+„Unsere Partner: Hetzner, die Uni Gießen im LOEWE-Verbund — von Infrastruktur bis Forschung vernetzt."
 
 ---
 
@@ -85,7 +85,7 @@
 
 **(2:05–2:17) Self-Bootstrapping:**
 *Pause*
-„Self-Bootstrapping: Nebenerwerb, kein Gründerlohn. 1.000 bis 2.000 Euro im Monat. Fünf Kunden, und das Modell trägt sich. Selbstfinanziert, produktfinanziert. Genau so baut man verantwortungsvoll."
+„Self-Bootstrapping: Nebenerwerb, kein Gründerlohn. 1.000 bis 2.000 Euro im Monat. Fünf Kunden, und das Modell trägt sich. Selbstfinanziert, produktfinanziert."
 
 ---
 
@@ -126,7 +126,7 @@
 *[Tobias zeigt auf mittlere, dann rechte Spalte — energisch]*
 
 **(0:15–0:30)**
-„Wir haben gebaut, was fehlt: Echtzeit-Datenquellen, Wissensgraph, KI-Scoring — auf eigener Hardware, DSGVO-konform. 299 Euro im Monat, 14x günstiger als Citeline. Selbstfinanziert. Probieren Sie es aus. Danke."
+„Wir haben gebaut, was fehlt: Echtzeit-Datenquellen, Wissensgraph, KI-Scoring — auf eigener Hardware, DSGVO-konform. 299 Euro im Monat, um ein Vielfaches günstiger als Citeline. Selbstfinanziert. Testen Sie es auf contextual-intelligence.org. Danke."
 
 ---
 
