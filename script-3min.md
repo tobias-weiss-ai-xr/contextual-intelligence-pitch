@@ -38,6 +38,8 @@
 
 ## SZENE 1 — HERAUSFORDERUNG (0:00–0:25) → Dr. Tobias Weiß · `bg-01-problem.png`
 
+![Szene 1: Herausforderung](png/bg-01-problem.png)
+
 *[Blick in Kamera]*
 
 **(0:00–0:10)**
@@ -54,6 +56,8 @@
 ---
 
 ## SZENE 2 — TEAM & MARKT (0:25–0:48) → Marc Viel · `bg-02-markt.png`
+
+![Szene 2: Team & Markt](png/bg-02-markt.png)
 
 *[Marc Viel jetzt im Bild]*
 
@@ -72,6 +76,8 @@
 
 ## SZENE 3 — PREISE (0:48–1:05) → Marc Viel · `bg-03-revenue.png`
 
+![Szene 3: Preise](png/bg-03-revenue.png)
+
 **(0:48–0:57)**
 „Citeline, GlobalData: 50.000 Euro pro Jahr. Wir: 299 Euro im Monat. Gleiche Intelligence. 14 Mal günstiger."
 
@@ -82,6 +88,8 @@
 ---
 
 ## SZENE 4 — SCHLÜSSELFAKTOREN (1:05–1:28) → Dr. Tobias Weiß · `bg-04-schluesselfaktoren.png`
+
+![Szene 4: Schlüsselfaktoren](png/bg-04-schluesselfaktoren.png)
 
 *[Dr. Tobias Weiß zurück]*
 
@@ -96,6 +104,8 @@
 
 ## SZENE 5 — KOSTEN (1:28–1:45) → Dr. Tobias Weiß · `bg-05-kosten.png`
 
+![Szene 5: Kosten](png/bg-05-kosten.png)
+
 **(1:28–1:37)**
 „Schlank und ehrlich. Keine teure Cloud, keine Miet-API. Voll automatisiert. Nebenerwerb — kein Gründerlohn."
 
@@ -106,6 +116,8 @@
 ---
 
 ## SZENE 6 — CTA (1:45–2:15) → Marc Viel · `bg-06-cta.png`
+
+![Szene 6: Call to Action](png/bg-06-cta.png)
 
 **(1:45–2:15)**
 „Contextual Intelligence ist live. Testen Sie es, stimmen Sie ab."
