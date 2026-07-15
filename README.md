@@ -1,7 +1,8 @@
-# Contextual Intelligence — Pitch Materials
+# Contextual Intelligence — Pitch Materials (MedTech-Fokus)
 
 > **BMC 2026 | StartMiUp Mittelhessen**
 > Studioaufnahme: 16. Juli 2026
+> Fokussiert auf Lead Intelligence im MedTech-Sektor
 
 ## Contents
 

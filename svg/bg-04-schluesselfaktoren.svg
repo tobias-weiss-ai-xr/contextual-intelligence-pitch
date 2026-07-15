@@ -66,7 +66,7 @@
 
   <rect x="55" y="402" width="390" height="36" rx="4" fill="#1e293b" opacity="0.5"/>
   <text x="68" y="417" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#e2e8f0">Crawler-Adapter</text>
-  <text x="68" y="430" font-family="'Segoe UI',Arial,sans-serif" font-size="9" fill="#94a3b8">FDA · EUDAMED · ClinicalTrials · Patentämter · Förderdatenbanken</text>
+  <text x="68" y="430" font-family="'Segoe UI',Arial,sans-serif" font-size="9" fill="#94a3b8">FDA · EUDAMED · ClinicalTrials · Patentämter · NB-Daten</text>
 
   <rect x="55" y="442" width="390" height="36" rx="4" fill="#1e293b" opacity="0.5"/>
   <text x="68" y="457" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#e2e8f0">ORSD Dataset (6 Tabellen)</text>
@@ -115,11 +115,11 @@
 
   <rect x="1475" y="402" width="390" height="36" rx="4" fill="#1e293b" opacity="0.5"/>
   <text x="1488" y="417" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#e2e8f0">AI-Agent-Entwicklung</text>
-  <text x="1488" y="430" font-family="'Segoe UI',Arial,sans-serif" font-size="9" fill="#94a3b8">Automated Outreach · Grant-Matching · Wettbewerbsanalyse</text>
+  <text x="1488" y="430" font-family="'Segoe UI',Arial,sans-serif" font-size="9" fill="#94a3b8">Automated Outreach · Signal-Matching · Wettbewerbsanalyse</text>
 
   <rect x="1475" y="442" width="390" height="36" rx="4" fill="#1e293b" opacity="0.5"/>
   <text x="1488" y="457" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#e2e8f0">Content-Marketing</text>
-  <text x="1488" y="470" font-family="'Segoe UI',Arial,sans-serif" font-size="9" fill="#94a3b8">Blog · Förder-Guides · IVDR-Content · LinkedIn</text>
+  <text x="1488" y="470" font-family="'Segoe UI',Arial,sans-serif" font-size="9" fill="#94a3b8">Blog · MDR/IVDR-Guides · LinkedIn · Case Studies</text>
 
   <rect x="1475" y="482" width="390" height="36" rx="4" fill="#1e293b" opacity="0.5"/>
   <text x="1488" y="497" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#e2e8f0">ORSD Community-Management</text>

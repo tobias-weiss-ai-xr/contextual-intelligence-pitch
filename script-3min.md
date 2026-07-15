@@ -66,10 +66,10 @@
 
 **(0:06–0:14) Pain:**
 *pause*
-„70 Prozent aller Hightech-Gründungen scheitern am Vertrieb. Die Werkzeuge helfen nicht: LinkedIn kennt Branchen, nicht Absichten. Sie sehen nicht, wer patentiert oder zertifiziert — genau das wären die richtigen Signale."
+„Die meisten MedTech-Gründungen scheitern nicht am Produkt — sondern am Vertrieb. LinkedIn kennt nur Firmen, nicht Technologie. Es zeigt nicht, wer zertifiziert, klinische Studien startet oder ein neues Produkt anmeldet — genau das wären die richtigen Signale."
 
 **(0:14–0:20) Warum jetzt:**
-„Mai 2027: 40.000 Medizinprodukte neu zertifiziert. Wer die richtigen Partner zuerst findet, gewinnt Jahre."
+„Mai 2027: rund 40.000 Medizinprodukte neu zertifiziert. Wer die richtigen Partner zuerst findet, gewinnt Jahre."
 
 **(0:20–0:28) Lösung:**
 *pause*
@@ -90,11 +90,11 @@
 
 **(0:38–0:46) Kundensegmente:**
 *pause*
-„Unsere Kunden: Medizintechnik, Biotech, Industrie. Startups auf Fördermittelsuche. Universitäten. Zwei Welten, eine Plattform."
+„Unsere Kunden: Medizintechnik-Hersteller — vom KMU bis zum Konzern. Zulieferer, Startups, Kliniken. Alle, die im MedTech-Markt die richtigen Partner finden müssen."
 
 **(0:46–1:00) Go-to-Market:**
 *pause*
-„Wir setzen auf das Produkt, nicht auf Verkauf. ORSD ist kostenlos — es bringt Interessierte auf die Plattform. Der Markt ist milliardenschwer. Wir brauchen 50 Kunden — eigenfinanziert, nachhaltig. Kein Luftschloss. Ein Plan."
+„Wir setzen auf das Produkt, nicht auf Verkauf. ORSD ist kostenlos — es bringt Interessierte auf die Plattform. Allein der MedTech-Markt ist milliardenschwer. Wir brauchen 50 Kunden — eigenfinanziert, nachhaltig. Kein Luftschloss. Ein Plan."
 
 ---
 
@@ -161,7 +161,7 @@
 > *[Marc wieder im Bild. Background zeigt Voting-Callout, Produkte, Logo. Energisch, Blick in Kamera.]*
 
 **(2:17–2:37) CTA:**
-„Contextual Intelligence ist live — Plattform und offene Daten. Testen Sie es, stimmen Sie ab. Wir sind CI — Tobias aus Marburg, ich aus Frankfurt. Wir machen Hightech-Vertrieb intelligent. Wir brauchen Ihre Stimme."
+„Contextual Intelligence ist live — Plattform und offene Daten. Testen Sie es, stimmen Sie ab. Wir sind CI — Tobias aus Marburg, ich aus Frankfurt. Wir machen MedTech-Vertrieb intelligent. Wir brauchen Ihre Stimme."
 *pause — Blick in Kamera*
 „Danke."
 

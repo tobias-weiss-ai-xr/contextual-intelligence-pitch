@@ -76,13 +76,13 @@
   <text x="105" y="450" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">Technologie-Nähe</text>
 
   <circle cx="85" cy="488" r="5" fill="#ef4444" opacity="0.7"/>
-  <text x="105" y="495" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">20+ Datenquellen manuell — ungenutzt</text>
+  <text x="105" y="495" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">MDR/IVDR — Zulassungsdschungel</text>
 
   <circle cx="85" cy="533" r="5" fill="#ef4444" opacity="0.7"/>
   <text x="105" y="540" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">Cold Outreach ohne Signal-Bezug</text>
 
   <circle cx="85" cy="578" r="5" fill="#ef4444" opacity="0.7"/>
-  <text x="105" y="585" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">1.500+ Förderprogramme unüberschaubar</text>
+  <text x="105" y="585" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">Kein Überblick über FDA, EUDAMED, Studien</text>
 
   <circle cx="85" cy="623" r="5" fill="#ef4444" opacity="0.7"/>
   <text x="105" y="630" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">Keyword-Suche: kein semantisches Verständnis</text>
@@ -101,7 +101,7 @@
   <text x="1515" y="475" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">Klinische Studien → kommerzielle Signale</text>
 
   <circle cx="1495" cy="513" r="5" fill="#22c55e" opacity="0.7"/>
-  <text x="1515" y="520" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">Förderausschreibungen als Marktchance</text>
+  <text x="1515" y="520" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">MDR-Transition als Marktchance</text>
 
   <circle cx="1495" cy="558" r="5" fill="#22c55e" opacity="0.7"/>
   <text x="1515" y="565" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">Strukturierte Daten statt Zufallsfunde</text>

@@ -44,7 +44,7 @@
 > *[Marc zeigt auf linke Spalte]*
 
 **(0:00–0:15)**
-„40.000 Medizinprodukte müssen 2027 neu zertifiziert werden. Jeder sucht Partner — aber LinkedIn findet nur Branchen, nicht Technologie. Ein Startup kurz vor der Pleite — weil sie die falschen Kunden suchten."
+„Rund 40.000 Medizinprodukte müssen bis 2027 neu zertifiziert werden. Jeder sucht Partner — aber LinkedIn findet nur Firmen, nicht Technologie. Ein Startup kurz vor der Pleite — weil sie die falschen Kunden suchten."
 
 *—— Hart-Schnitt zu Tobias ——*
 

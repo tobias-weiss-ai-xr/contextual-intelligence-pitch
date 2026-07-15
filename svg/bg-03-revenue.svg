@@ -51,7 +51,7 @@
   <text x="75" y="350" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" fill="#06b6d4" letter-spacing="3">LEAD INTELLIGENCE</text>
   <text x="420" y="350" font-family="'Segoe UI',Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff" text-anchor="end">€299</text>
   <text x="420" y="366" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#94a3b8" text-anchor="end">/Monat</text>
-  <text x="75" y="382" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#94a3b8">B2B-Vertriebsteams · Deep Tech</text>
+  <text x="75" y="382" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#94a3b8">B2B-Vertriebsteams · MedTech</text>
   <text x="75" y="400" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">10–50× günstiger als Citeline/GlobalData</text>
 
   <rect x="40" y="425" width="420" height="92" rx="10" fill="#1e293b" stroke="#6366f1" stroke-width="1" stroke-opacity="0.4"/>
@@ -62,10 +62,10 @@
   <text x="75" y="505" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Institutslizenzen · Mehrere Research Groups</text>
 
   <rect x="40" y="530" width="420" height="72" rx="10" fill="#1e293b" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.2"/>
-  <text x="75" y="554" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#94a3b8" letter-spacing="2">GRANT INTELLIGENCE (GEPLANT Q3 2027)</text>
+  <text x="75" y="554" font-family="'Segoe UI',Arial,sans-serif" font-size="11" font-weight="600" fill="#94a3b8" letter-spacing="2">CLINICAL INTELLIGENCE (GEPLANT Q3 2027)</text>
   <text x="420" y="554" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="700" fill="#94a3b8" text-anchor="end">€49–€149</text>
   <text x="420" y="569" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b" text-anchor="end">/Monat</text>
-  <text x="75" y="590" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Einzelforschende · Kleinst-Startups</text>
+  <text x="75" y="590" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b">Studien-Scouting · Prüfzentren · Investigator-Suche</text>
 
   <!-- ==================== RIGHT: MOAT ==================== -->
   <text x="1670" y="300" font-family="'Segoe UI',Arial,sans-serif" font-size="16" font-weight="600" fill="#6366f1" letter-spacing="5" text-anchor="middle">MOAT-INFRASTRUKTUR</text>
