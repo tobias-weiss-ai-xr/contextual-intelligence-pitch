@@ -57,7 +57,7 @@
   <text x="540" y="730" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#475569" letter-spacing="4" text-anchor="middle">Deep Tech · Made in Hessen</text>
 
   <!-- URL -->
-  <text x="540" y="1880" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" fill="#06b6d4" letter-spacing="2" text-anchor="middle">orsd.contextual-intelligence.org</text>
+  <text x="540" y="1880" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="36" fill="#06b6d4" letter-spacing="3" text-anchor="middle">orsd.contextual-intelligence.org</text>
 
   <!-- Vignette -->
   <rect width="1080" height="1920" fill="url(#vignette)" pointer-events="none"/>
