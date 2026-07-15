@@ -26,7 +26,7 @@
 
 **(0:20–0:28) Lösung:**
 *Pause*
-„Die Lösung: Contextual Intelligence — Echtzeit-Datenquellen, semantischer Graph, Signale heiß, warm, kalt. Auf eigener Hardware, datenschutzkonform, nie älter als 24 Stunden."
+„Die Lösung: Contextual Intelligence — Echtzeit-Datenquellen, semantischer Graph, Signale heiß, warm, kalt. Auf eigener Hardware, datenschutzkonform, täglich aktualisiert."
 
 ---
 
@@ -67,7 +67,7 @@
 *[Tobias wieder im Bild. Background: 3 Säulen — Resources / Activities / Partners]*
 
 **(1:24–1:36) Technik:**
-„Zwei NVIDIA-Rechner vor Ort — keine Cloud. Modernste KI auf eigener Hardware, vollständig DSGVO-konform. Echtzeit-Daten aus globalen Quellen, 2.500 Unternehmen, 50.000 Signale im Graph. Ergebnis: Signale, kein Rauschen."
+„Zwei NVIDIA-Rechner vor Ort — keine Cloud. Offene KI-Modelle auf eigener Hardware, vollständig DSGVO-konform. Echtzeit-Daten aus globalen Quellen, 2.500 Unternehmen, 50.000 Signale im Graph. Ergebnis: Signale, kein Rauschen."
 *Pause*
 
 **(1:36–1:54) Partner:**
