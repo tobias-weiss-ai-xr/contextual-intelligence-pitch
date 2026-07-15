@@ -9,7 +9,6 @@
 |------|-------------|
 | `script-3min.md` | 3-Minuten-Pitch (6 Szenen, 2 Sprecher) |
 | `script-30s.md` | 30-Sekunden-Elevator-Pitch |
-| `production-checklist.md` | Checkliste für den Studio-Tag |
 | `svg/` | GreenScreen-Hintergründe (8 SVGs, optimiert: weniger Text, größere Schrift) |
 | `png/` | PNG-Exporte der Hintergründe (1920×1080) |
 | `StartMiUp_Einreichung.tex` | LaTeX-Einreichung StartMiUp |
