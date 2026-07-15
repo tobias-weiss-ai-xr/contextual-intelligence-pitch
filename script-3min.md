@@ -94,7 +94,7 @@
 *[Dr. Tobias Weiß zurück]*
 
 **(1:05–1:17)**
-„openDesk war mein Schlüsselerlebnis: Kontrolle über die Infrastruktur — Kontrolle über die Daten. Zwei NVIDIA-Rechner vor Ort, keine Cloud. Modernste KI, DSGVO."
+„openDesk war mein Schlüsselerlebnis: Kontrolle über die Infrastruktur — Kontrolle über die Daten. Souveräne Open-Source Foundation Modelle auf eigener Hardware — keine Cloud. Modernste KI, DSGVO."
 
 **(1:17–1:28)**
 *Pause*

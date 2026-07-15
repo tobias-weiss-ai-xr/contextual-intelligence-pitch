@@ -60,7 +60,7 @@
 
 ![Szene 4: Schlüsselfaktoren](png/bg-04-schluesselfaktoren.png)
 
-„openDesk war mein Schlüsselerlebnis: Kontrolle über die Infrastruktur — Kontrolle über die Daten. Zwei NVIDIA-Rechner vor Ort, keine Cloud. Modernste KI, DSGVO."
+„openDesk war mein Schlüsselerlebnis: Kontrolle über die Infrastruktur — Kontrolle über die Daten. Souveräne Open-Source Foundation Modelle auf eigener Hardware — keine Cloud. Modernste KI, DSGVO."
 
 *Pause*
 

@@ -135,7 +135,7 @@
     <circle cx="855" cy="40" r="3" fill="#475569"/>
     <text x="875" y="47" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#94a3b8">Datenschutz</text>
     <circle cx="1030" cy="40" r="3" fill="#475569"/>
-    <text x="1050" y="47" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#6366f1">2× NVIDIA DGX</text>
+    <text x="1050" y="47" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#6366f1">Open-Source FMs</text>
 
     <text x="960" y="95" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#64748b" letter-spacing="3" text-anchor="middle">CONTEXTUAL INTELLIGENCE · LEAD · GRANT · REGULATORY · SIGNAL INTELLIGENCE</text>
   </g>

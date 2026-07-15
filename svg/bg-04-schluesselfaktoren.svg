@@ -57,7 +57,7 @@
   </g>
   <g transform="translate(55, 425)">
     <rect x="0" y="0" width="410" height="60" rx="6" fill="#1e293b" opacity="0.5"/>
-    <text x="20" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="24" font-weight="600" fill="#e2e8f0">2× NVIDIA DGX Spark</text>
+    <text x="20" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="24" font-weight="600" fill="#e2e8f0">Open-Source Foundation Modelle</text>
   </g>
   <g transform="translate(55, 500)">
     <rect x="0" y="0" width="410" height="60" rx="6" fill="#1e293b" opacity="0.5"/>
