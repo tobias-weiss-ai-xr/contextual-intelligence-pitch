@@ -62,7 +62,7 @@
 *[Marc Viel jetzt im Bild]*
 
 **(0:25–0:35)**
-„Marc Viel — Produkt und Kunden. Dr. Tobias Weiß kommt aus openDesk, digitale Souveränität. 20 Gespräche mit MedTech-Vertriebsleitern — wir kennen die Unsicherheit."
+„Marc Viel — Produkt und Kunden. Dr. Tobias Weiß kommt aus openDesk, digitale Souveränität. Siemens Healthineers hat den Bedarf klar formuliert — Marktgespräche bestätigen: die Unsicherheit ist real."
 
 **(0:35–0:42)**
 *Pause*
