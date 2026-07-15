@@ -72,7 +72,7 @@
 
 **(1:36–1:54) Partner:**
 *Pause*
-„Unsere Partner: Hetzner, die Uni Gießen im LOEWE-Verbund — von Infrastruktur bis Forschung vernetzt."
+„Unsere Partner: Hetzner, die Uni Gießen — von Infrastruktur bis Forschung vernetzt."
 
 ---
 
