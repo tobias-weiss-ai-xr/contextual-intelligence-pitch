@@ -1,0 +1,178 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <linearGradient id="colBg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="ctaGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#22c55e" stop-opacity="0.08"/>
+    </linearGradient>
+    <linearGradient id="votingGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+    <linearGradient id="flowLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#06b6d4" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#6366f1" stop-opacity="0.3"/>
+      <stop offset="80%" stop-color="#22c55e" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#22c55e" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="softGlow"><feGaussianBlur stdDeviation="40" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <radialGradient id="vignette" cx="50%" cy="50%" r="75%">
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.35"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1920" height="1080" fill="url(#bg)"/>
+
+  <g opacity="0.03" stroke="#ffffff" stroke-width="0.5">
+    <line x1="0" y1="180" x2="1920" y2="180"/><line x1="0" y1="360" x2="1920" y2="360"/>
+    <line x1="0" y1="540" x2="1920" y2="540"/><line x1="0" y1="720" x2="1920" y2="720"/>
+    <line x1="0" y1="900" x2="1920" y2="900"/>
+    <line x1="240" y1="0" x2="240" y2="1080"/><line x1="480" y1="0" x2="480" y2="1080"/>
+    <line x1="720" y1="0" x2="720" y2="1080"/><line x1="960" y1="0" x2="960" y2="1080"/>
+    <line x1="1200" y1="0" x2="1200" y2="1080"/><line x1="1440" y1="0" x2="1440" y2="1080"/>
+    <line x1="1680" y1="0" x2="1680" y2="1080"/>
+  </g>
+
+  <rect x="0" y="0" width="1920" height="4" fill="url(#accent)"/>
+
+  <!-- ===== TOP STRIP ===== -->
+  <text x="960" y="110" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="56" font-weight="700" fill="#ffffff" letter-spacing="20" text-anchor="middle" filter="url(#glow)">WER · WAS · CTA</text>
+  <line x1="760" y1="140" x2="1160" y2="140" stroke="url(#accent)" stroke-width="2" stroke-linecap="round"/>
+  <text x="960" y="200" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#64748b" letter-spacing="6" text-anchor="middle">FOUNDER · PRODUCT · CALL TO ACTION</text>
+
+  <!-- ===== LEFT: WER ===== -->
+  <g transform="translate(40, 280)">
+    <rect x="0" y="0" width="420" height="620" rx="16" fill="url(#colBg)" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.2"/>
+
+    <rect x="0" y="0" width="420" height="52" rx="16" fill="#06b6d4" fill-opacity="0.08"/>
+    <rect x="0" y="40" width="420" height="12" fill="#06b6d4" fill-opacity="0.06"/>
+    <circle cx="26" cy="26" r="16" fill="none" stroke="#06b6d4" stroke-width="2"/>
+    <text x="26" y="32" font-family="Arial,sans-serif" font-size="16" fill="#06b6d4" text-anchor="middle" font-weight="700">W</text>
+    <text x="55" y="33" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="700" fill="#06b6d4" letter-spacing="4">WER</text>
+
+    <rect x="15" y="68" width="190" height="140" rx="10" fill="#1e293b" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.3"/>
+    <text x="26" y="96" font-family="'Segoe UI',Arial,sans-serif" font-size="15" font-weight="700" fill="#e2e8f0">Tobias Weiß</text>
+    <text x="26" y="118" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#94a3b8">KI / DevOps</text>
+    <text x="26" y="138" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#94a3b8">PhD Information Systems</text>
+    <text x="26" y="158" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#94a3b8">Digital Sovereignty, UMR</text>
+    <text x="26" y="178" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#94a3b8">Marburg</text>
+
+    <rect x="215" y="68" width="190" height="140" rx="10" fill="#1e293b" stroke="#6366f1" stroke-width="1" stroke-opacity="0.3"/>
+    <text x="226" y="96" font-family="'Segoe UI',Arial,sans-serif" font-size="15" font-weight="700" fill="#e2e8f0">Marc Viel</text>
+    <text x="226" y="118" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#94a3b8">Requirements Engineering</text>
+    <text x="226" y="138" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#94a3b8">Business-IT-Schnittstelle</text>
+    <text x="226" y="158" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#94a3b8">Best Pitch Award</text>
+    <text x="226" y="178" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#94a3b8">Frankfurt</text>
+
+    <rect x="15" y="225" width="390" height="44" rx="22" fill="none" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.4"/>
+    <text x="210" y="253" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="700" fill="#06b6d4" text-anchor="middle" letter-spacing="3">TEAM · MARBURG + FRANKFURT</text>
+
+    <rect x="15" y="286" width="390" height="125" rx="10" fill="#1e293b" stroke="#64748b" stroke-width="1" stroke-opacity="0.2"/>
+    <text x="30" y="312" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="600" fill="#e2e8f0">Motivation</text>
+    <text x="30" y="338" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#94a3b8">„B2B-Vertrieb sucht blind im Dark Space.</text>
+    <text x="30" y="358" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#94a3b8">Tools verstehen keine Technologie.</text>
+    <text x="30" y="378" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#94a3b8">Also haben wir gebaut, was fehlt."</text>
+
+    <rect x="15" y="428" width="390" height="54" rx="8" fill="none" stroke="#475569" stroke-width="1" stroke-dasharray="3"/>
+    <text x="30" y="452" font-family="'Segoe UI',Arial,sans-serif" font-size="12" font-weight="600" fill="#64748b">LOEWE-Forschungsverbund</text>
+    <text x="30" y="472" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#475569">Universität Gießen + Marburg</text>
+
+    <text x="210" y="540" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#475569" text-anchor="middle">Nebenerwerb · Eigenfinanziert · Seit 2024</text>
+  </g>
+
+  <!-- ===== RIGHT: CTA ===== -->
+  <g transform="translate(1460, 280)">
+    <rect x="0" y="0" width="420" height="620" rx="16" fill="url(#ctaGrad)" stroke="#22c55e" stroke-width="1" stroke-opacity="0.25"/>
+
+    <rect x="0" y="0" width="420" height="52" rx="16" fill="#22c55e" fill-opacity="0.1"/>
+    <rect x="0" y="40" width="420" height="12" fill="#22c55e" fill-opacity="0.08"/>
+    <circle cx="26" cy="26" r="16" fill="none" stroke="#22c55e" stroke-width="2"/>
+    <text x="26" y="32" font-family="Arial,sans-serif" font-size="16" fill="#22c55e" text-anchor="middle" font-weight="700">C</text>
+    <text x="55" y="33" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="700" fill="#22c55e" letter-spacing="4">CTA</text>
+
+    <rect x="15" y="68" width="390" height="140" rx="12" fill="url(#ctaGrad)" stroke="url(#votingGrad)" stroke-width="2" filter="url(#glow)"/>
+    <text x="210" y="110" font-family="'Segoe UI',Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="6">JETZT</text>
+    <text x="210" y="155" font-family="'Segoe UI',Arial,sans-serif" font-size="32" font-weight="800" fill="url(#votingGrad)" text-anchor="middle" letter-spacing="8">ABSTIMMEN!</text>
+    <text x="210" y="192" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#e2e8f0" text-anchor="middle">Business Model Wettbewerb 2026</text>
+
+    <rect x="15" y="228" width="390" height="100" rx="10" fill="#1e293b" stroke="#475569" stroke-width="1" stroke-opacity="0.3"/>
+    <text x="30" y="253" font-family="'Segoe UI',Arial,sans-serif" font-size="13" font-weight="700" fill="#e2e8f0">Testet es jetzt:</text>
+    <text x="30" y="282" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#06b6d4">orsd.contextual-intelligence.org</text>
+    <text x="30" y="308" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#6366f1">contextual-intelligence.org</text>
+
+    <rect x="15" y="345" width="390" height="50" rx="25" fill="none" stroke="#22c55e" stroke-width="1" stroke-opacity="0.4"/>
+    <text x="210" y="376" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="700" fill="#22c55e" text-anchor="middle" letter-spacing="4">#BMW2026 · CONTEXTUAL INTELLIGENCE</text>
+
+    <rect x="15" y="412" width="390" height="130" rx="10" fill="none" stroke="url(#accent)" stroke-width="1" stroke-dasharray="4" stroke-opacity="0.5"/>
+
+    <g transform="translate(210, 450)">
+      <polygon points="0,-20 36,-9 36,9 0,20 -36,9 -36,-9" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.4"/>
+      <circle cx="0" cy="0" r="10" fill="url(#accent)" filter="url(#glow)"/>
+      <circle cx="0" cy="0" r="4" fill="#ffffff" opacity="0.9"/>
+      <circle cx="0" cy="-14" r="4" fill="#06b6d4" opacity="0.6"/>
+      <circle cx="14" cy="-7" r="3" fill="#6366f1" opacity="0.5"/>
+      <circle cx="14" cy="7" r="3" fill="#06b6d4" opacity="0.5"/>
+      <circle cx="0" cy="14" r="4" fill="#6366f1" opacity="0.6"/>
+      <circle cx="-14" cy="7" r="3" fill="#06b6d4" opacity="0.5"/>
+      <circle cx="-14" cy="-7" r="3" fill="#6366f1" opacity="0.5"/>
+    </g>
+
+    <text x="210" y="530" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="4">MARBURG</text>
+
+    <text x="210" y="580" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#475569" text-anchor="middle">Deep Tech · Made in Hessen</text>
+  </g>
+
+  <!-- ===== BOTTOM: WAS compact ===== -->
+  <g transform="translate(0, 900)">
+    <line x1="0" y1="0" x2="1920" y2="0" stroke="url(#accent)" stroke-width="1" stroke-opacity="0.12"/>
+
+    <!-- Connection flow from WER → WAS → CTA -->
+    <path d="M 460,22 L 1460,22" fill="none" stroke="url(#flowLine)" stroke-width="2" opacity="0.4"/>
+
+    <rect x="40" y="8" width="1840" height="44" rx="22" fill="url(#colBg)" stroke="#06b6d4" stroke-width="1" stroke-opacity="0.2"/>
+
+    <circle cx="65" cy="30" r="14" fill="none" stroke="url(#accent)" stroke-width="1.5"/>
+    <text x="65" y="35" font-family="Arial,sans-serif" font-size="12" fill="#6366f1" text-anchor="middle" font-weight="700">W</text>
+    <text x="90" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="700" fill="#ffffff" letter-spacing="3">WAS</text>
+
+    <text x="195" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#e2e8f0">Sovereign-AI-Plattform</text>
+    <circle cx="360" cy="30" r="2" fill="#475569"/>
+    <text x="375" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#94a3b8">Quellen</text>
+    <circle cx="490" cy="30" r="2" fill="#475569"/>
+    <text x="505" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#94a3b8">HOT/WARM/COLD</text>
+    <circle cx="650" cy="30" r="2" fill="#475569"/>
+    <text x="665" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#94a3b8">ORSD kostenlos</text>
+    <circle cx="800" cy="30" r="2" fill="#475569"/>
+    <text x="815" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#06b6d4">CI ab €299/Monat</text>
+    <circle cx="960" cy="30" r="2" fill="#475569"/>
+    <text x="975" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#94a3b8">Self-hosted</text>
+    <circle cx="1090" cy="30" r="2" fill="#475569"/>
+    <text x="1105" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#94a3b8">Datenschutz</text>
+    <circle cx="1200" cy="30" r="2" fill="#475569"/>
+    <text x="1215" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#94a3b8">Break-Even €1.500/Monat</text>
+    <circle cx="1380" cy="30" r="2" fill="#475569"/>
+    <text x="1395" y="36" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#6366f1">2× NVIDIA DGX Spark</text>
+
+    <text x="960" y="80" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#64748b" text-anchor="middle" letter-spacing="2">
+ORSD: Kostenlos · Offene Lizenz · Tägliche Updates  |  CI: ab €299/Monat · Enterprise ab €1.000/Monat  |  Lead Intelligence  |  KI-Analyse öffentlicher Signale  |  Quellen: FDA · EUDAMED · Patentämter · ClinicalTrials
+    </text>
+
+    <text x="960" y="123" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#475569" letter-spacing="3" text-anchor="middle">CONTEXTUAL INTELLIGENCE · LEAD · GRANT · REGULATORY · SIGNAL INTELLIGENCE</text>
+  </g>
+
+  <rect width="1920" height="1080" fill="url(#vignette)" pointer-events="none"/>
+</svg>

@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="personGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.25"/>
+      <stop offset="60%" stop-color="#6366f1" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#0891b2" stop-opacity="0.05"/>
+    </linearGradient>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="hardGlow">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- ================================================================ -->
+  <!-- SPEAKER ZONE: x=480 bis x=1440 | y=280 bis y=870                -->
+  <!-- 960 px breit × 590 px hoch · zentriert bei x=960                -->
+  <!-- Alle Pitch-SVGs lassen diese Zone KOMPLETT FREI.                -->
+  <!-- ================================================================ -->
+
+  <!-- Halbtransparenter Hintergrund, um Klarstellungen hervorzuheben -->
+  <rect x="0" y="0" width="1920" height="1080" fill="#0f172a" opacity="0.35"/>
+
+  <!-- Zone-Füllung: leichte Abdunklung außerhalb, heller innen -->
+  <rect x="480" y="280" width="960" height="590" fill="none"/>
+
+  <!-- ============ ÄUSSERER RAHMEN (dick, auffällig) ============ -->
+  <rect x="480" y="280" width="960" height="590" fill="none" stroke="#ef4444" stroke-width="4" stroke-dasharray="14,8" opacity="0.9"/>
+  <rect x="484" y="284" width="952" height="582" fill="none" stroke="#06b6d4" stroke-width="2" stroke-dasharray="14,8" opacity="0.6"/>
+  <rect x="488" y="288" width="944" height="574" fill="none" stroke="#6366f1" stroke-width="1" stroke-dasharray="14,8" opacity="0.3"/>
+
+  <!-- ============ ECKEN-MARKIERUNGEN (L‑förmig) ============ -->
+  <g stroke="#ef4444" stroke-width="3" opacity="0.95">
+    <!-- Oben links -->
+    <line x1="475" y1="280" x2="540" y2="280"/>
+    <line x1="480" y1="275" x2="480" y2="340"/>
+    <!-- Oben rechts -->
+    <line x1="1440" y1="280" x2="1380" y2="280"/>
+    <line x1="1440" y1="275" x2="1440" y2="340"/>
+    <!-- Unten links -->
+    <line x1="475" y1="870" x2="540" y2="870"/>
+    <line x1="480" y1="875" x2="480" y2="810"/>
+    <!-- Unten rechts -->
+    <line x1="1440" y1="870" x2="1380" y2="870"/>
+    <line x1="1440" y1="875" x2="1440" y2="810"/>
+  </g>
+
+  <!-- ============ ZENTRIERTE PERSONEN-SILHOUETTE ============ -->
+  <g transform="translate(960, 0)" opacity="0.95" filter="url(#softGlow)">
+    <path d="M -80,860 L -90,750 Q -95,700 -80,650 L -70,600 Q -60,560 -40,540
+             L -30,520 Q -20,500 -10,490 L -5,480
+             Q 0,475 0,475
+             Q 0,475 5,480 L 10,490
+             Q 20,500 30,520 L 40,540
+             Q 60,560 70,600 L 80,650
+             Q 95,700 90,750 L 80,860 Z"
+         fill="url(#personGrad)" stroke="#06b6d4" stroke-width="3" opacity="0.95"/>
+    <ellipse cx="0" cy="430" rx="55" ry="65" fill="url(#personGrad)" stroke="#06b6d4" stroke-width="3" opacity="0.95"/>
+    <rect x="-18" y="475" width="36" height="25" rx="8" fill="url(#personGrad)" stroke="#06b6d4" stroke-width="2" opacity="0.85"/>
+    <circle cx="-18" cy="420" r="5" fill="#06b6d4" opacity="0.9"/>
+    <circle cx="18" cy="420" r="5" fill="#06b6d4" opacity="0.9"/>
+    <line x1="25" y1="510" x2="45" y2="540" stroke="#06b6d4" stroke-width="2" opacity="0.85"/>
+    <circle cx="45" cy="543" r="4" fill="none" stroke="#06b6d4" stroke-width="2" opacity="0.85"/>
+    <path d="M 45,543 Q 55,560 60,600" stroke="#6366f1" stroke-width="1.5" fill="none" opacity="0.6"/>
+  </g>
+
+  <!-- ============ HORIZONTALE MITTELLINIE ============ -->
+  <line x1="480" y1="575" x2="1440" y2="575" stroke="#fbbf24" stroke-width="1" stroke-dasharray="4,6" opacity="0.5"/>
+  <line x1="950" y1="575" x2="970" y2="575" stroke="#fbbf24" stroke-width="2" opacity="0.8"/>
+  <text x="1445" y="579" font-family="'Courier New',monospace" font-size="11" fill="#fbbf24" opacity="0.7">y=575 (vertikale Mitte)</text>
+
+  <!-- ============ VERTIKALE MITTELLINIE ============ -->
+  <line x1="960" y1="280" x2="960" y2="870" stroke="#fbbf24" stroke-width="1" stroke-dasharray="4,6" opacity="0.5"/>
+  <text x="962" y="295" font-family="'Courier New',monospace" font-size="11" fill="#fbbf24" opacity="0.7">x=960 (horizontale Mitte)</text>
+
+  <!-- ============ MASS-ANGABEN ============ -->
+  <!-- Breite: 960px -->
+  <line x1="480" y1="260" x2="1440" y2="260" stroke="#94a3b8" stroke-width="1" opacity="0.5"/>
+  <line x1="480" y1="255" x2="480" y2="265" stroke="#94a3b8" stroke-width="1" opacity="0.7"/>
+  <line x1="1440" y1="255" x2="1440" y2="265" stroke="#94a3b8" stroke-width="1" opacity="0.7"/>
+  <text x="960" y="255" font-family="'Courier New',monospace" font-size="12" fill="#94a3b8" text-anchor="middle">960 px</text>
+
+  <!-- Höhe: 590px -->
+  <line x1="455" y1="280" x2="455" y2="870" stroke="#94a3b8" stroke-width="1" opacity="0.5"/>
+  <line x1="450" y1="280" x2="460" y2="280" stroke="#94a3b8" stroke-width="1" opacity="0.7"/>
+  <line x1="450" y1="870" x2="460" y2="870" stroke="#94a3b8" stroke-width="1" opacity="0.7"/>
+  <text x="450" y="583" font-family="'Courier New',monospace" font-size="12" fill="#94a3b8" text-anchor="end" transform="rotate(-90, 450, 583)">590 px</text>
+
+  <!-- ============ SICHERHEITS-INNENABSTAND (SAFE ZONE 90%) ============ -->
+  <rect x="528" y="310" width="864" height="530" fill="none" stroke="#22c55e" stroke-width="1" stroke-dasharray="4,8" opacity="0.35"/>
+  <text x="528" y="305" font-family="'Courier New',monospace" font-size="9" fill="#22c55e" opacity="0.4">Safe Zone (90%)</text>
+
+  <!-- ============ CONTROL-INFO ============ -->
+  <!-- Top‑Left‑Panel: Überschrift + Warnung -->
+  <rect x="20" y="20" width="380" height="82" rx="8" fill="#0f172a" opacity="0.92" stroke="#ef4444" stroke-width="2"/>
+  <text x="36" y="46" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="900" fill="#ef4444" letter-spacing="2">⚠ SPEAKER OVERLAY</text>
+  <text x="36" y="68" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#e2e8f0">Sprecher-Position für Greenscreen-Produktion</text>
+  <text x="36" y="88" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#fbbf24" font-weight="600">Zone: x 480–1440 · y 280–870 — NICHTS DARIN PLATZIEREN!</text>
+
+  <!-- Rechte Info-Tafel: Maße -->
+  <rect x="1480" y="20" width="420" height="130" rx="8" fill="#0f172a" opacity="0.92" stroke="#6366f1" stroke-width="1"/>
+  <text x="1496" y="46" font-family="'Segoe UI',Arial,sans-serif" font-size="15" font-weight="700" fill="#06b6d4">PRODUKTIONS-REFERENZ</text>
+
+  <text x="1496" y="72" font-family="'Courier New',monospace" font-size="12" fill="#94a3b8">Zonentyp:      Speaker (Greenscreen)</text>
+  <text x="1496" y="90" font-family="'Courier New',monospace" font-size="12" fill="#94a3b8">Position:      x 480 – 1440 · y 280 – 870</text>
+  <text x="1496" y="108" font-family="'Courier New',monospace" font-size="12" fill="#94a3b8">Größe:         960 × 590 px (50 % × 54 % der Leinwand)</text>
+  <text x="1496" y="126" font-family="'Courier New',monospace" font-size="12" fill="#94a3b8">Zentrum:       x=960 / y=575</text>
+  <text x="1496" y="144" font-family="'Courier New',monospace" font-size="12" fill="#94a3b8">Person:        Kopf y=430 · Hals y=475 · Schulter ~y=540</text>
+
+  <!-- ============ VERIFIKATIONS-CHECKLISTE ============ -->
+  <rect x="20" y="120" width="380" height="170" rx="8" fill="#0f172a" opacity="0.92" stroke="#22c55e" stroke-width="1"/>
+  <text x="36" y="146" font-family="'Segoe UI',Arial,sans-serif" font-size="14" font-weight="700" fill="#22c55e" letter-spacing="1">✓ VERIFIKATIONS-CHECKLISTE</text>
+  <line x1="36" y1="158" x2="380" y2="158" stroke="#22c55e" stroke-width="1" opacity="0.3"/>
+
+  <text x="50" y="180" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#e2e8f0">◻ bg-01-problem.svg       — Zone frei?</text>
+  <text x="50" y="198" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#e2e8f0">◻ bg-02-markt.svg         — Zone frei?</text>
+  <text x="50" y="216" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#e2e8f0">◻ bg-03-revenue.svg       — Zone frei?</text>
+  <text x="50" y="234" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#e2e8f0">◻ bg-04-schluesselfaktoren.svg — Zone frei?</text>
+  <text x="50" y="252" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#e2e8f0">◻ bg-05-kosten.svg         — Zone frei?</text>
+  <text x="50" y="270" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#e2e8f0">◻ bg-06-cta.svg            — Zone frei?</text>
+  <text x="50" y="288" font-family="'Segoe UI',Arial,sans-serif" font-size="12" fill="#e2e8f0">◻ bg-07-wer-was-cta.svg    — Zone frei?</text>
+
+  <!-- ============ UNTEN: ANLEITUNG ============ -->
+  <rect x="360" y="920" width="1200" height="50" rx="8" fill="#0f172a" opacity="0.9" stroke="#06b6d4" stroke-width="1"/>
+  <text x="960" y="941" font-family="'Segoe UI',Arial,sans-serif" font-size="13" fill="#e2e8f0" text-anchor="middle">
+    <tspan font-weight="700" fill="#06b6d4">VERWENDUNG: </tspan>
+    Dieses SVG zum Prüfen über eine Pitch-Folie legen.
+    <tspan font-weight="700" fill="#fbbf24"> opacity: 1.0 </tspan>
+    sicherstellen, dass nichts in die rote Zone ragt.
+    <tspan fill="#64748b"> │ </tspan>
+    Nach Prüfung <tspan font-weight="700" fill="#22c55e"> opacity: 0.0 </tspan> oder ausblenden.
+  </text>
+
+  <!-- ============ FUSSZEILE ============ -->
+  <text x="960" y="1000" font-family="'Courier New',monospace" font-size="10" fill="#475569" text-anchor="middle">Overlay v2.0 — Contextual Intelligence — BMC 2026 — Für DaVinci Resolve / OBS / PowerPoint</text>
+</svg>

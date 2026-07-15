@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <linearGradient id="painGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#ef4444" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="gainGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#22c55e" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#22c55e" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="chipGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#6366f1" stop-opacity="0.08"/>
+    </linearGradient>
+    <linearGradient id="flowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ef4444" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#06b6d4" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#6366f1" stop-opacity="0.4"/>
+      <stop offset="60%" stop-color="#06b6d4" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#22c55e" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glowStrong"><feGaussianBlur stdDeviation="12" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <radialGradient id="vignette" cx="50%" cy="50%" r="75%">
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.35"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1920" height="1080" fill="url(#bg)"/>
+
+  <g opacity="0.03" stroke="#ffffff" stroke-width="0.5">
+    <line x1="0" y1="180" x2="1920" y2="180"/><line x1="0" y1="360" x2="1920" y2="360"/>
+    <line x1="0" y1="540" x2="1920" y2="540"/><line x1="0" y1="720" x2="1920" y2="720"/>
+    <line x1="0" y1="900" x2="1920" y2="900"/>
+    <line x1="240" y1="0" x2="240" y2="1080"/><line x1="480" y1="0" x2="480" y2="1080"/>
+    <line x1="720" y1="0" x2="720" y2="1080"/><line x1="960" y1="0" x2="960" y2="1080"/>
+    <line x1="1200" y1="0" x2="1200" y2="1080"/><line x1="1440" y1="0" x2="1440" y2="1080"/>
+    <line x1="1680" y1="0" x2="1680" y2="1080"/>
+  </g>
+
+  <rect x="0" y="0" width="1920" height="4" fill="url(#accent)"/>
+
+  <g transform="translate(40, 30) scale(0.35)">
+    <polygon points="140,0 260,75 260,225 140,300 20,225 20,75" fill="none" stroke="url(#accent)" stroke-width="3" opacity="0.25"/>
+    <circle cx="140" cy="150" r="28" fill="url(#accent)" opacity="0.4"/>
+    <circle cx="140" cy="150" r="10" fill="#ffffff" opacity="0.4"/>
+    <circle cx="140" cy="55" r="12" fill="#06b6d4" opacity="0.4"/>
+    <circle cx="225" cy="103" r="10" fill="#6366f1" opacity="0.3"/>
+    <circle cx="225" cy="197" r="10" fill="#06b6d4" opacity="0.3"/>
+    <circle cx="140" cy="245" r="12" fill="#6366f1" opacity="0.4"/>
+    <circle cx="55" cy="197" r="10" fill="#06b6d4" opacity="0.3"/>
+    <circle cx="55" cy="103" r="10" fill="#6366f1" opacity="0.3"/>
+  </g>
+
+  <text x="960" y="130" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="64" font-weight="700" fill="#ffffff" letter-spacing="12" text-anchor="middle" filter="url(#glow)">PROBLEM</text>
+  <rect x="840" y="150" width="240" height="3" fill="url(#accent)" rx="1.5"/>
+
+  <rect x="50" y="290" width="410" height="370" rx="12" fill="url(#painGrad)" stroke="#ef4444" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="255" y="325" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="700" fill="#ef4444" letter-spacing="4" text-anchor="middle">PAIN</text>
+  <line x1="170" y1="342" x2="340" y2="342" stroke="#ef4444" stroke-width="1" opacity="0.4"/>
+
+  <circle cx="85" cy="378" r="5" fill="#ef4444" opacity="0.7"/>
+  <text x="105" y="385" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">Kein Tool versteht Technologie-Kontext</text>
+
+  <circle cx="85" cy="423" r="5" fill="#ef4444" opacity="0.7"/>
+  <text x="105" y="430" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">LinkedIn/Apollo: generische Branche ≠</text>
+  <text x="105" y="450" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">Technologie-Nähe</text>
+
+  <circle cx="85" cy="488" r="5" fill="#ef4444" opacity="0.7"/>
+  <text x="105" y="495" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">20+ Datenquellen manuell — ungenutzt</text>
+
+  <circle cx="85" cy="533" r="5" fill="#ef4444" opacity="0.7"/>
+  <text x="105" y="540" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">Cold Outreach ohne Signal-Bezug</text>
+
+  <circle cx="85" cy="578" r="5" fill="#ef4444" opacity="0.7"/>
+  <text x="105" y="585" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">1.500+ Förderprogramme unüberschaubar</text>
+
+  <circle cx="85" cy="623" r="5" fill="#ef4444" opacity="0.7"/>
+  <text x="105" y="630" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">Keyword-Suche: kein semantisches Verständnis</text>
+
+  <rect x="1460" y="290" width="410" height="370" rx="12" fill="url(#gainGrad)" stroke="#22c55e" stroke-width="1" stroke-opacity="0.3"/>
+  <text x="1665" y="325" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="700" fill="#22c55e" letter-spacing="4" text-anchor="middle">GAIN</text>
+  <line x1="1580" y1="342" x2="1750" y2="342" stroke="#22c55e" stroke-width="1" opacity="0.4"/>
+
+  <circle cx="1495" cy="378" r="5" fill="#22c55e" opacity="0.7"/>
+  <text x="1515" y="385" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">FDA-Zulassungen als Frühindikatoren</text>
+
+  <circle cx="1495" cy="423" r="5" fill="#22c55e" opacity="0.7"/>
+  <text x="1515" y="430" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">Patent-Filings zeigen Technologie-Richtung</text>
+
+  <circle cx="1495" cy="468" r="5" fill="#22c55e" opacity="0.7"/>
+  <text x="1515" y="475" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">Klinische Studien → kommerzielle Signale</text>
+
+  <circle cx="1495" cy="513" r="5" fill="#22c55e" opacity="0.7"/>
+  <text x="1515" y="520" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">Förderausschreibungen als Marktchance</text>
+
+  <circle cx="1495" cy="558" r="5" fill="#22c55e" opacity="0.7"/>
+  <text x="1515" y="565" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">Strukturierte Daten statt Zufallsfunde</text>
+
+  <circle cx="1495" cy="603" r="5" fill="#22c55e" opacity="0.7"/>
+  <text x="1515" y="610" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#e2e8f0">Wochen Vorsprung vor Wettbewerb</text>
+
+  <!-- Data flow indicator at top of bottom bar -->
+  <rect x="50" y="876" width="1820" height="3" rx="1.5" fill="url(#flowGrad)"/>
+  <circle cx="255" cy="877" r="4" fill="#ef4444" opacity="0.6"/>
+  <circle cx="960" cy="877" r="4" fill="#6366f1" opacity="0.6"/>
+  <circle cx="1665" cy="877" r="4" fill="#22c55e" opacity="0.6"/>
+
+  <rect x="0" y="880" width="1920" height="200" fill="#1e293b" opacity="0.6"/>
+
+  <text x="960" y="914" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="700" fill="#06b6d4" letter-spacing="3" text-anchor="middle">UNSERE LÖSUNG</text>
+
+  <g transform="translate(0, 945)">
+    <rect x="280" y="-12" width="310" height="26" rx="13" fill="url(#chipGrad)" stroke="url(#accent)" stroke-width="0.5" stroke-opacity="0.4"/>
+    <text x="435" y="6" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#e2e8f0" text-anchor="middle">Intelligenter Graph</text>
+
+    <rect x="610" y="-12" width="310" height="26" rx="13" fill="url(#chipGrad)" stroke="url(#accent)" stroke-width="0.5" stroke-opacity="0.4"/>
+    <text x="765" y="6" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#e2e8f0" text-anchor="middle">Datenquellen → 1 Signal-Feed</text>
+
+    <rect x="940" y="-12" width="190" height="26" rx="13" fill="url(#chipGrad)" stroke="url(#accent)" stroke-width="0.5" stroke-opacity="0.4"/>
+    <text x="1035" y="6" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#e2e8f0" text-anchor="middle">HOT / WARM / COLD</text>
+
+    <rect x="1150" y="-12" width="290" height="26" rx="13" fill="url(#chipGrad)" stroke="url(#accent)" stroke-width="0.5" stroke-opacity="0.4"/>
+    <text x="1295" y="6" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" fill="#e2e8f0" text-anchor="middle">Eigene Hardware — Datenschutz-konform</text>
+  </g>
+
+  <text x="960" y="1000" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" fill="#94a3b8" text-anchor="middle">
+    <tspan fill="#6366f1" font-weight="700">22</tspan> Datenquellen · 
+    <tspan fill="#06b6d4" font-weight="700">10</tspan> Regulatoren · 
+    <tspan fill="#6366f1" font-weight="700">1</tspan> Graph · 
+    <tspan fill="#06b6d4" font-weight="700">€299</tspan>/Monat Lead Intelligence
+  </text>
+  <text x="960" y="1035" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#475569" text-anchor="middle">Eigene KI · Eigene Hardware · Datenschutz-konform</text>
+
+  <rect width="1920" height="1080" fill="url(#vignette)" pointer-events="none"/>
+</svg>
