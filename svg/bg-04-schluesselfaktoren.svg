@@ -80,10 +80,7 @@
     <rect x="0" y="0" width="200" height="40" rx="4" fill="#1e293b" opacity="0.5"/>
     <text x="10" y="26" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="500" fill="#e2e8f0">Hetzner</text>
   </g>
-  <g transform="translate(265, 770)">
-    <rect x="0" y="0" width="200" height="40" rx="4" fill="#1e293b" opacity="0.5"/>
-    <text x="10" y="26" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="500" fill="#e2e8f0">ZenDis (API)</text>
-  </g>
+
   <g transform="translate(55, 820)">
     <rect x="0" y="0" width="200" height="40" rx="4" fill="#1e293b" opacity="0.5"/>
     <text x="10" y="26" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="500" fill="#e2e8f0">Uni Marburg (MAFEX), StartMiUp</text>

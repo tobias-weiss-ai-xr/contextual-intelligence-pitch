@@ -98,7 +98,7 @@
 
 **(1:17–1:28)**
 *Pause*
-„Partner, die tragen: Hetzner, ZenDis, Uni Gießen. Siemens Healthineers als Pilot."
+„Partner, die tragen: Hetzner, Uni Gießen. Siemens Healthineers als Pilot."
 
 ---
 

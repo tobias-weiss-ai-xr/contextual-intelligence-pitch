@@ -64,7 +64,7 @@
 
 *Pause*
 
-„Partner: Hetzner, ZenDis, Uni Gießen. Siemens Healthineers als Pilot."
+„Partner: Hetzner, Uni Gießen. Siemens Healthineers als Pilot."
 
 ---
 
