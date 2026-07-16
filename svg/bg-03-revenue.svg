@@ -15,7 +15,7 @@
     </filter>
     <radialGradient id="vignette" cx="50%" cy="45%" r="70%">
       <stop offset="40%" stop-color="#000" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.35"/>
     </radialGradient>
   </defs>
 
@@ -32,53 +32,53 @@
     <circle cx="0" cy="0" r="7" fill="#ffffff" opacity="0.9"/>
   </g>
   <text x="150" y="115" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" letter-spacing="3" text-anchor="middle">CONTEXTUAL INTELLIGENCE</text>
-  <text x="150" y="132" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#475569" text-anchor="middle">orsd.contextual-intelligence.org</text>
+  <text x="150" y="132" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#64748b" text-anchor="middle">orsd.contextual-intelligence.org</text>
 
   <!-- Title -->
   <text x="960" y="70" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="56" font-weight="700" fill="#ffffff" letter-spacing="8" text-anchor="middle">GESCHÄFTSMODELL</text>
   <rect x="810" y="85" width="300" height="2" fill="url(#accent)" rx="1"/>
 
   <!-- Separator lines -->
-  <line x1="420" y1="120" x2="420" y2="1000" stroke="url(#accent)" stroke-width="1" opacity="0.08"/>
-  <line x1="1500" y1="120" x2="1500" y2="1000" stroke="url(#accent)" stroke-width="1" opacity="0.08"/>
+  <line x1="420" y1="120" x2="420" y2="1000" stroke="url(#accent)" stroke-width="1" opacity="0.15"/>
+  <line x1="1500" y1="120" x2="1500" y2="1000" stroke="url(#accent)" stroke-width="1" opacity="0.15"/>
 
   <!-- LEFT: GTM STRATEGIE -->
-  <text x="245" y="180" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="700" fill="#06b6d4" letter-spacing="3" text-anchor="middle">GTM STRATEGIE</text>
+  <text x="245" y="180" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="700" fill="#06b6d4" letter-spacing="3" text-anchor="middle">GTM STRATEGIE</text>
 
   <!-- SIEMENS -->
   <circle cx="150" cy="270" r="14" fill="#06b6d4" opacity="0.3"/>
   <text x="150" y="277" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#fff" text-anchor="middle" font-weight="700">★</text>
   <text x="180" y="277" font-family="'Segoe UI',Arial,sans-serif" font-size="28" font-weight="700" fill="#e2e8f0">SIEMENS</text>
-  <text x="180" y="310" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#94a3b8">Referenzkunde</text>
-  <text x="180" y="340" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#94a3b8">MedTech</text>
+  <text x="180" y="310" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#cbd5e1">Referenzkunde</text>
+  <text x="180" y="340" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#cbd5e1">MedTech</text>
 
   <!-- PROJEKT-GTM -->
   <circle cx="150" cy="420" r="14" fill="#6366f1" opacity="0.3"/>
   <text x="150" y="427" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#fff" text-anchor="middle" font-weight="700">→</text>
   <text x="180" y="427" font-family="'Segoe UI',Arial,sans-serif" font-size="28" font-weight="700" fill="#e2e8f0">PROJEKT-GTM</text>
-  <text x="180" y="460" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#94a3b8">Echte Projekte</text>
-  <text x="180" y="490" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#94a3b8">Echter Pain</text>
+  <text x="180" y="460" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#cbd5e1">Echte Projekte</text>
+  <text x="180" y="490" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#cbd5e1">Echter Pain</text>
   <text x="180" y="520" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#64748b">Hackathon-Kanal</text>
 
   <!-- SELF-BOOTSTRAPPING -->
   <circle cx="150" cy="590" r="14" fill="#22c55e" opacity="0.3"/>
   <text x="150" y="597" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#fff" text-anchor="middle" font-weight="700">↻</text>
   <text x="180" y="597" font-family="'Segoe UI',Arial,sans-serif" font-size="28" font-weight="700" fill="#e2e8f0">SELF-BOOT</text>
-  <text x="180" y="630" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#94a3b8">Lead-Gen mit</text>
-  <text x="180" y="660" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#94a3b8">eigenem Tool</text>
+  <text x="180" y="630" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#cbd5e1">Lead-Gen mit</text>
+  <text x="180" y="660" font-family="'Segoe UI',Arial,sans-serif" font-size="20" fill="#cbd5e1">eigenem Tool</text>
 
   <!-- RIGHT: MOAT -->
-  <text x="1675" y="180" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="700" fill="#6366f1" letter-spacing="3" text-anchor="middle">MOAT</text>
+  <text x="1675" y="180" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="700" fill="#6366f1" letter-spacing="3" text-anchor="middle">MOAT</text>
 
   <text x="1530" y="270" font-family="'Segoe UI',Arial,sans-serif" font-size="26" font-weight="700" fill="#06b6d4">ORSD</text>
-  <text x="1530" y="300" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#94a3b8">Open Standard</text>
+  <text x="1530" y="300" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#cbd5e1">Open Standard</text>
 
   <text x="1530" y="360" font-family="'Segoe UI',Arial,sans-serif" font-size="26" font-weight="700" fill="#6366f1">CRS</text>
-  <text x="1530" y="390" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#94a3b8">Proprietär. Scoping</text>
+  <text x="1530" y="390" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#cbd5e1">Proprietär. Scoping</text>
 
   <line x1="1530" y1="425" x2="1830" y2="425" stroke="#475569" stroke-width="0.5" opacity="0.4"/>
 
-  <text x="1675" y="475" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="700" fill="#22c55e" letter-spacing="2" text-anchor="middle">PROJEKTION</text>
+  <text x="1675" y="475" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="700" fill="#22c55e" letter-spacing="2" text-anchor="middle">PROJEKTION</text>
 
   <text x="1530" y="535" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="700" fill="#06b6d4">Y1</text>
   <text x="1830" y="535" font-family="'Segoe UI',Arial,sans-serif" font-size="24" font-weight="700" fill="#ffffff" text-anchor="end">€9–18k</text>
@@ -91,14 +91,14 @@
 
   <line x1="1530" y1="690" x2="1830" y2="690" stroke="#475569" stroke-width="0.5" opacity="0.4"/>
 
-  <text x="1675" y="740" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="700" fill="#22c55e" letter-spacing="2" text-anchor="middle">UNIT ECONOMICS</text>
-  <text x="1530" y="785" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#94a3b8">CAC ~€400</text>
-  <text x="1530" y="815" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#94a3b8">LTV/CAC &gt;5:1</text>
-  <text x="1530" y="845" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#94a3b8">Payback 3 Mo.</text>
-  <text x="1530" y="875" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#94a3b8">GM 93%</text>
+  <text x="1675" y="740" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="700" fill="#22c55e" letter-spacing="2" text-anchor="middle">UNIT ECONOMICS</text>
+  <text x="1530" y="785" font-family="'Segoe UI',Arial,sans-serif" font-size="22" fill="#cbd5e1">CAC ~€400</text>
+  <text x="1530" y="815" font-family="'Segoe UI',Arial,sans-serif" font-size="22" fill="#cbd5e1">LTV/CAC &gt;5:1</text>
+  <text x="1530" y="845" font-family="'Segoe UI',Arial,sans-serif" font-size="22" fill="#cbd5e1">Payback 3 Mo.</text>
+  <text x="1530" y="875" font-family="'Segoe UI',Arial,sans-serif" font-size="22" fill="#cbd5e1">GM 93%</text>
 
   <!-- Footer -->
-  <text x="960" y="1040" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="600" fill="#94a3b8" text-anchor="middle" letter-spacing="4">Self-Bootstrap · Nebenerwerb · Eigenfinanziert</text>
+  <text x="960" y="1040" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="600" fill="#cbd5e1" text-anchor="middle" letter-spacing="4">Self-Bootstrap · Nebenerwerb · Eigenfinanziert</text>
 
   <rect width="1920" height="1080" fill="url(#vignette)" pointer-events="none"/>
 </svg>

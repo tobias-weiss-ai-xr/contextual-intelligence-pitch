@@ -15,7 +15,7 @@
     </filter>
     <radialGradient id="vignette" cx="50%" cy="45%" r="70%">
       <stop offset="40%" stop-color="#000" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#000" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.35"/>
     </radialGradient>
   </defs>
 
@@ -31,18 +31,18 @@
     <circle cx="0" cy="0" r="7" fill="#ffffff" opacity="0.9"/>
   </g>
   <text x="150" y="115" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="13" font-weight="700" fill="#ffffff" letter-spacing="3" text-anchor="middle">CONTEXTUAL INTELLIGENCE</text>
-  <text x="150" y="132" font-family="'Segoe UI',Arial,sans-serif" font-size="11" fill="#475569" text-anchor="middle">orsd.contextual-intelligence.org</text>
+  <text x="150" y="132" font-family="'Segoe UI',Arial,sans-serif" font-size="14" fill="#64748b" text-anchor="middle">orsd.contextual-intelligence.org</text>
 
   <!-- Title -->
   <text x="960" y="70" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="48" font-weight="700" fill="#ffffff" letter-spacing="6" text-anchor="middle">MARKT &amp; ZIELGRUPPEN</text>
   <rect x="800" y="85" width="320" height="2" fill="url(#accent)" rx="1"/>
 
   <!-- Separator lines -->
-  <line x1="420" y1="120" x2="420" y2="1000" stroke="url(#accent)" stroke-width="1" opacity="0.08"/>
-  <line x1="1500" y1="120" x2="1500" y2="1000" stroke="url(#accent)" stroke-width="1" opacity="0.08"/>
+  <line x1="420" y1="120" x2="420" y2="1000" stroke="url(#accent)" stroke-width="1" opacity="0.15"/>
+  <line x1="1500" y1="120" x2="1500" y2="1000" stroke="url(#accent)" stroke-width="1" opacity="0.15"/>
 
   <!-- LEFT: ZIELGRUPPEN -->
-  <text x="245" y="180" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="700" fill="#06b6d4" letter-spacing="3" text-anchor="middle">ZIELGRUPPEN</text>
+  <text x="245" y="180" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="700" fill="#06b6d4" letter-spacing="3" text-anchor="middle">ZIELGRUPPEN</text>
 
   <circle cx="150" cy="270" r="16" fill="#06b6d4" opacity="0.25"/>
   <text x="150" y="277" font-family="'Segoe UI',Arial,sans-serif" font-size="18" fill="#fff" text-anchor="middle" font-weight="700">S</text>
@@ -65,7 +65,7 @@
   <text x="180" y="670" font-family="'Segoe UI',Arial,sans-serif" font-size="36" font-weight="700" fill="#06b6d4">~5.000</text>
 
   <!-- RIGHT: MARKTVOLUMEN -->
-  <text x="1675" y="180" font-family="'Segoe UI',Arial,sans-serif" font-size="18" font-weight="700" fill="#6366f1" letter-spacing="3" text-anchor="middle">MARKTVOLUMEN</text>
+  <text x="1675" y="180" font-family="'Segoe UI',Arial,sans-serif" font-size="22" font-weight="700" fill="#6366f1" letter-spacing="3" text-anchor="middle">MARKTVOLUMEN</text>
 
   <text x="1675" y="280" font-family="'Segoe UI',Arial,sans-serif" font-size="20" font-weight="700" fill="#06b6d4" letter-spacing="2" text-anchor="middle">TAM</text>
   <text x="1675" y="325" font-family="'Segoe UI',Arial,sans-serif" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">€1,15 Mrd.</text>
@@ -86,7 +86,7 @@
   <text x="1675" y="720" font-family="'Segoe UI',Arial,sans-serif" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle">Auf Anfrage</text>
 
   <!-- Footer -->
-  <text x="960" y="1040" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="600" fill="#94a3b8" text-anchor="middle" letter-spacing="4">Self-Bootstrap · Nebenerwerb · Eigenfinanziert</text>
+  <text x="960" y="1040" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="600" fill="#cbd5e1" text-anchor="middle" letter-spacing="4">Self-Bootstrap · Nebenerwerb · Eigenfinanziert</text>
 
   <rect width="1920" height="1080" fill="url(#vignette)" pointer-events="none"/>
 </svg>
