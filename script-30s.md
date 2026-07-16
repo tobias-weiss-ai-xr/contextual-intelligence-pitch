@@ -16,4 +16,5 @@
 
 ---
 
-Text bzgl. Uservoting hinten weg schneiden.
+- Untertitel einbinden bitte.
+- Text bzgl. Uservoting hinten weg schneiden.
