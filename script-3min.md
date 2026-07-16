@@ -59,10 +59,9 @@ Das ist Contextual Intelligence.
 
 *[Marc im Bild]*
 
------
-
 „Stellen Sie sich vor: Täglich neue Patente, Studien, und Zulassungen. Alles im Wandel. Nichts sicher. In dieser Unsicherheit entscheiden Sie über Ihre Zukunft. Worauf setzen Sie?"  „MedTech Marketing wird komplexer — 
-Die EU Medizinprodukteverordnung 2027, tägliche neue Konferenzbeiträge und Stellenausschreibungen. Contextual Intelligence gibt Ihnen Klarheit. Tagesaktuelle Datenquellen, ein semantischer Graph — Klare Kategorie: kalt, warm, heiß. 
+Die EU Medizinprodukteverordnung 2027, tägliche neue Konferenzbeiträge und Stellenausschreibungen. Contextual Intelligence gibt Ihnen Klarheit. Tagesaktuelle Datenquellen, ein semantischer Graph — Klare Kategorie: kalt, warm, heiß.
+
 ---
 
 ## SZENE 5 — KOSTEN (1:28–1:45) → Marc · `bg-05-kosten.png`
@@ -81,6 +80,7 @@ Slide 6:
 Nun zur Go-to-Market Strategie: Siemens Healthineers als Referenzkunde — einer erster Proof-of-concept, dass es funktioniert.
 Wir liefern KI-gestütze Lösungen für echten Pain des Kunden. Direkt am Problem. Projektbasiert, individuell — Auf Anfrage.
 Ein besonderes Merkmal unseres Geschäftsmodells ist unser Self-Bootstrapping: Wir nutzen unser Tool für die Identifizierung eigener Leads. Das Produkt generiert sein Wachstum selbst.
+
 ---
 
 ---
