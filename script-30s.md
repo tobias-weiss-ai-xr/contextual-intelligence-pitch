@@ -1,29 +1,27 @@
-# 30-Sekunden-Pitch — Wer / Was / CTA
+# 30-Sekunden-Teaser — Verweis auf 3-Min-Pitch
 
 > **Dauer:** 30 Sekunden
 > **Format:** Greenscreen, ein Sprecher (Marc)
-> **Stil:** Emotional, direkt, positiv — Herausforderung, nicht Problem
+> **Stil:** Teaser — weckt Neugier, verweist auf 3-Min-Video
 > **Hintergrund:** `png/bg-07-wer-was-cta.png` (ein Hintergrund)
 > **Sprecher:** Marc
 
 ---
 
-## Technische Produktionshinweise
+## Produktionshinweise
 
-- Wie Hauptpitch: gleiche Kameraposition, gleiches Audio
-- **Kein Background-Wechsel** (png/bg-07-wer-was-cta.png)
-- **Kein Sprecherwechsel** — Marc durchgehend
-- **Untertitel:**
+- Gleiche Kameraposition, gleiches Audio wie Hauptpitch
+- Kein Background-Wechsel
+- Kein Sprecherwechsel
 
 ---
 
 ## SKRIPT
 
-![Background: Wer / Was / CTA](png/bg-07-wer-was-cta.png)
+**(0:00–0:20)**
 
----
+„MedTech Regulatorik wird komplexer — EU-Medizinprodukteverordnung 2027, 40.000 Produkte, unzählige Quellen. Wir bei Contextual Intelligence verarbeiten diese Signale in Echtzeit und identifizieren Leads, bevor der Markt sie sieht. Siemens Healthineers ist bereits an Bord."
 
-### FRAGEN & EINSTIEG (0:00–0:15) → **Marc**
-### LÖSUNG & CTA (0:15–0:30) → **Marc**
+**(0:20–0:30)**
 
-Cut-Anweiseung: Cut nach "Und gib uns deine Stimme." (Teil mit Uservoting hinten raus weg lassen, sowohl das Wort im Video als auch den Outtake)
+„Lust auf den ganzen Pitch? Schau dir das 3-Minuten-Video an — Link in der Beschreibung. Wir bitten um deine Stimme!"
