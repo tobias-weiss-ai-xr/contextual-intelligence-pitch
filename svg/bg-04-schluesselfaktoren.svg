@@ -31,7 +31,8 @@
     <circle cx="0" cy="0" r="9" fill="#ffffff" opacity="0.9"/>
   </g>
   <text x="1770" y="120" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" fill="#ffffff" letter-spacing="3" text-anchor="middle">CONTEXTUAL INTELLIGENCE</text>
-  <text x="1770" y="138" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#64748b" text-anchor="middle">orsd.contextual-intelligence.org</text>
+  <text x="1770" y="138" font-family="'Segoe UI',Arial,sans-serif" font-size="16" fill="#94a3b8" text-anchor="middle">orsd.contextual-intelligence.org</text>
+  <line x1="1690" y1="148" x2="1850" y2="148" stroke="#94a3b8" stroke-width="0.5" opacity="0.3"/>
 
   <!-- Title -->
   <text x="960" y="70" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="56" font-weight="700" fill="#ffffff" letter-spacing="8" text-anchor="middle">SCHLÜSSELFAKTOREN</text>
