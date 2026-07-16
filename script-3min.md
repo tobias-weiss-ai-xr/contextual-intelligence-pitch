@@ -5,10 +5,10 @@
 
 | Szene | Zeit | Sprecher | SVG |
 |-------|------|----------|-----|
-| 1 Herausforderung | 0:00–0:25 | Tobias | `bg-01-problem.png` |
-| 2 Team & Markt | 0:25–0:48 | Tobias | `bg-02-markt.png` |
-| 3 Geschäftsmodell | 0:48–1:05 | Tobias | `bg-03-revenue.png` |
-| 4 Schlüsselfaktoren | 1:05–1:28 | Marc | `bg-04-schluesselfaktoren.png` |
+| 1 Herausforderung | Tobias | `bg-01-problem.png` |
+| 2 Team & Markt | Tobias | `bg-02-markt.png` |
+| 3 Geschäftsmodell | Tobias | `bg-03-revenue.png` |
+| 4 Schlüsselfaktoren | Marc | `bg-04-schluesselfaktoren.png` |
 | 5 Kosten | 1:28–1:45 | Marc | `bg-05-kosten.png` |
 | 6 CTA | 1:45–2:15 | Marc | `bg-06-cta.png` |
 
@@ -80,9 +80,3 @@ Slide 6:
 Nun zur Go-to-Market Strategie: Siemens Healthineers als Referenzkunde — einer erster Proof-of-concept, dass es funktioniert.
 Wir liefern KI-gestütze Lösungen für echten Pain des Kunden. Direkt am Problem. Projektbasiert, individuell — Auf Anfrage.
 Ein besonderes Merkmal unseres Geschäftsmodells ist unser Self-Bootstrapping: Wir nutzen unser Tool für die Identifizierung eigener Leads. Das Produkt generiert sein Wachstum selbst.
-
----
-
----
-
-**Puffer: 2:15–3:00** — Atem holen, Lächeln, Blick halten.
