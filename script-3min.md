@@ -1,22 +1,5 @@
 # Pitch-Skript — Business Model Wettbewerb 2026
 
-> **Dauer:** 3 Minuten (180 Sekunden)
-> **Format:** Greenscreen, zwei Sprecher im Wechsel
-> **Stil:** Emotional, positiv, klar — Herausforderung, nicht Problem
-> **Hintergründe:** `png/bg-01-problem.png` bis `png/bg-06-cta.png`
-> **Sprecher:** Tobias (Technik) + Marc (Business) — ca. 50/50 Redeanteil
-
----
-
-## Technische Produktionshinweise
-
-- **Greenscreen:** Gleichmäßig ausgeleuchtet, kein Schatten
-- **Kamera:** Zentrale Position, beide auf Augenhöhe
-- **Mikro:** 2× Lavalier, gleicher Pegel, gleicher Kompressor
-- **Schnitt:** Hart-Schnitt zwischen Szenen, kein Crossfade
-- **Untertitel:** Weiß mit schwarzem Schatten, synchron zum Sprecher, Namen vor Text
-- **Blick:** Fest in Kamera, gelegentlich Blick zu Fakten
-- **Kleidung:** Kein Grün, kein feines Streifenmuster
 
 ### Szenen-Übersicht
 
@@ -28,7 +11,6 @@
 | 4 Schlüsselfaktoren | 1:05–1:28 | Marc | `bg-04-schluesselfaktoren.png` |
 | 5 Kosten | 1:28–1:45 | Marc | `bg-05-kosten.png` |
 | 6 CTA | 1:45–2:15 | Marc | `bg-06-cta.png` |
-| Puffer | 2:15–3:00 | — | — |
 
 ---
 
@@ -40,18 +22,9 @@
 
 ![Szene 1: Herausforderung](png/bg-01-problem.png)
 
-*[Blick in Kamera]*
-
-**(0:00–0:10)**
-„Stellen Sie sich vor: MedTech-Vertrieb. Täglich neue Patente, Studien, Zulassungen. Alles im Wandel. Nichts sicher. Worauf setzen Sie?"
-
-**(0:10–0:18)**
-*Pause*
-„Die MDR 2027: 40.000 Produkte neu zertifiziert. Ein falscher Partner — Monate verloren. In dieser Unsicherheit entscheiden Sie über Jahre."
-
-**(0:18–0:25)**
-*Pause*
-„Contextual Intelligence gibt Ihnen Klarheit. 22 Datenquellen, semantischer Graph — heiß, warm, kalt. Projektbasiert — individuell für Ihren Bedarf."
+Für unsere Lösung nutzen wir souveräne lokale Ki um  Datenquellen automatisiert einzulesen, wie zum Beispiel Patente und Zulassungen.
+Einige Datenquellen benötigen Registrierungen und Nutzungslizenzen.
+Unser Scoring- und Ratingalgorithmus ist das Herzstück der Lösung und klassifiziert die Leads in drei einfache Kategorien.
 
 ---
 
@@ -61,16 +34,11 @@
 
 *[Tobias bleibt im Bild]*
 
-**(0:25–0:35)**
-„Ich bin Tobias, Marc und ich bauen Contextual Intelligence. Ich komme aus openDesk, digitale Souveränität. Siemens Healthineers hat den Bedarf klar formuliert — Marktgespräche bestätigen: die Unsicherheit ist real."
+-----
 
-**(0:35–0:42)**
-*Pause*
-„Unser Fokus: Bildgebung, Diagnostik, Labortechnik — der Siemens-Healthineers-Sektor."
-
-**(0:42–0:48)**
-*Pause*
-„ORSD: offene Daten für alle. Und mit CI identifizieren wir Leads, die niemand eingibt — live."
+Die Kosten für unsere Lösung kommen zustande durch das Server und Ki-Hosting, Api Lizenzgebühren und Marketing.
+Diese belaufen sich auf ein bis zweitausend euro pro Monat.
+Durch unsere Nebenerwerbsgründung und Eigenfinanzierung ist Contextual Intelligence bereits mit dem ersten Kunden kostendeckend.
 
 ---
 
@@ -78,14 +46,10 @@
 
 ![Szene 3: Geschäftsmodell](png/bg-03-revenue.png)
 
-**(0:48–0:57)**
-„Siemens Healthineers als Referenzkunde — der Proof, dass es funktioniert. Unser Go-to-Market: Hackathon. Echte Projekte für echten Pain des Kunden. Direkt am Problem."
-
-**(0:57–1:05)**
-*Pause*
-„Self-Bootstrapping: Wir nutzen unser eigenes Tool für die Lead-Generierung. Das Produkt finanziert das Wachstum selbst. Projektbasiert, individuell — Auf Anfrage."
-
-*—— Hart-Schnitt: Tobias → Marc ——*
+Du glaubst unser Ki-gestütztes Produkt, das seine eigenen Leads generieren kann, ist bereit für die Zukunft?
+Wir bitten um deine Stimme beim StartMiUp Business Modell Wettbewerb 20 26. 
+Regulatorische Signale, echte Leads - ein klarer Wettbewerbsvorteil.
+Das ist Contextual Intelligence.
 
 ---
 
@@ -95,25 +59,17 @@
 
 *[Marc im Bild]*
 
-**(1:05–1:17)**
-„openDesk war mein Schlüsselerlebnis: Kontrolle über die Infrastruktur — Kontrolle über die Daten. Souveräne Open-Source Foundation Modelle auf eigener Hardware — keine Cloud. Modernste KI, DSGVO."
+-----
 
-**(1:17–1:28)**
-*Pause*
-„Partner, die tragen: Hetzner, Uni Gießen. Siemens Healthineers als Pilot. Und unser MOAT: ORSD als offener Standard und CRS als proprietäres Scoping — das kann niemand einfach kopieren."
-
+„Stellen Sie sich vor: Täglich neue Patente, Studien, und Zulassungen. Alles im Wandel. Nichts sicher. In dieser Unsicherheit entscheiden Sie über Ihre Zukunft. Worauf setzen Sie?"  „MedTech Marketing wird komplexer — 
+Die EU Medizinprodukteverordnung 2027, tägliche neue Konferenzbeiträge und Stellenausschreibungen. Contextual Intelligence gibt Ihnen Klarheit. Tagesaktuelle Datenquellen, ein semantischer Graph — Klare Kategorie: kalt, warm, heiß. 
 ---
 
 ## SZENE 5 — KOSTEN (1:28–1:45) → Marc · `bg-05-kosten.png`
 
 ![Szene 5: Kosten](png/bg-05-kosten.png)
 
-**(1:28–1:37)**
-„Schlank und ehrlich. Keine teure Cloud, keine Miet-API. Voll automatisiert. Nebenerwerb — kein Gründerlohn."
-
-**(1:37–1:45)**
-*Pause*
-„Fünf Kunden, und es trägt sich. Selbst finanziert. Kein Risiko."
+„Ich bin Tobias, Marc und ich verwirklichen gemeinsam die Contextual Intelligence Vision. Siemens Healthineers haben beim StartMiUp Hack-a-thon den Bedarf klar formuliert — die Unsicherheit bei der Suche von Leads. Deshalb Unser Fokus: Zulassungen, Patente und Publikationen. Wir tragen zur allgemeinen open-source Bewegung bei: Unser Datensatz für regulatorische Signale ist öffentlich zugänglich - interessant für Forschungs-, und insbesondere MedTech Unternehmen.
 
 ---
 
@@ -121,13 +77,11 @@
 
 ![Szene 6: Call to Action](png/bg-06-cta.png)
 
-**(1:45–2:00)**
-„Contextual Intelligence ist live. Vereinbaren Sie jetzt Ihren kostenlosen Demo-Termin und sehen Sie, welche aktuellen Leads auf Sie warten."
-
-*Pause — Lächeln*
-
-**(2:00–2:15)**
-„Regulatorische Signale. Echte Leads. Klarer Wettbewerbsvorteil. Contextual Intelligence — wir bitten um Ihre Stimme."
+Slide 6:
+Nun zur Go-to-Market Strategie: Siemens Healthineers als Referenzkunde — einer erster Proof-of-concept, dass es funktioniert.
+Wir liefern KI-gestütze Lösungen für echten Pain des Kunden. Direkt am Problem. Projektbasiert, individuell — Auf Anfrage.
+Ein besonderes Merkmal unseres Geschäftsmodells ist unser Self-Bootstrapping: Wir nutzen unser Tool für die Identifizierung eigener Leads. Das Produkt generiert sein Wachstum selbst.
+---
 
 ---
 
