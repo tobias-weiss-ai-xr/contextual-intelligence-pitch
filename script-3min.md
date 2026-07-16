@@ -9,8 +9,8 @@
 | 2 Team & Markt | Tobias | `bg-02-markt.png` |
 | 3 Geschäftsmodell | Tobias | `bg-03-revenue.png` |
 | 4 Schlüsselfaktoren | Marc | `bg-04-schluesselfaktoren.png` |
-| 5 Kosten | 1:28–1:45 | Marc | `bg-05-kosten.png` |
-| 6 CTA | 1:45–2:15 | Marc | `bg-06-cta.png` |
+| 5 Kosten | Marc | `bg-05-kosten.png` |
+| 6 CTA | Marc | `bg-06-cta.png` |
 
 ---
 
