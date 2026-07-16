@@ -13,7 +13,7 @@
 - Wie Hauptpitch: gleiche Kameraposition, gleiches Audio
 - **Kein Background-Wechsel** — Marc zeigt auf linke (WER), mittlere + rechte Spalte (WAS + CTA)
 - **Kein Sprecherwechsel** — Marc durchgehend
-- **Untertitel:** Namen fett vor dem Text, max. 2 Zeilen
+- **Untertitel:**
 
 ---
 
