@@ -3,8 +3,8 @@
 
 ### Szenen-Übersicht
 
-| Szene | Zeit | Sprecher | SVG |
-|-------|------|----------|-----|
+| Szene | Sprecher | SVG |
+|-------|----------|-----|
 | 1 Herausforderung | Tobias | `bg-01-problem.png` |
 | 2 Team & Markt | Tobias | `bg-02-markt.png` |
 | 3 Geschäftsmodell | Tobias | `bg-03-revenue.png` |
