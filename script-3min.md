@@ -127,7 +127,7 @@
 *Pause — Lächeln*
 
 **(2:00–2:15)**
-„Tobias aus Marburg, ich aus Frankfurt. Wir machen MedTech-Vertrieb klar. Wir brauchen Ihre Stimme. Danke."
+„Regulatorische Signale. Echte Leads. Klarer Wettbewerbsvorteil. Contextual Intelligence — wir bitten um Ihre Stimme."
 
 ---
 
