@@ -87,7 +87,8 @@
   <text x="1675" y="720" font-family="'Segoe UI',Arial,sans-serif" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle">Auf Anfrage</text>
 
   <!-- Footer -->
-  <text x="960" y="1040" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="600" fill="#cbd5e1" text-anchor="middle" letter-spacing="4">Self-Bootstrap · Nebenerwerb · Eigenfinanziert</text>
+  <text x="245" y="1040" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="600" fill="#cbd5e1" text-anchor="middle" letter-spacing="4">Self-Bootstrap</text>
+  <text x="1680" y="1040" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="600" fill="#cbd5e1" text-anchor="middle" letter-spacing="4">Eigenfinanziert</text>
 
   <rect width="1920" height="1080" fill="url(#vignette)" pointer-events="none"/>
 </svg>
